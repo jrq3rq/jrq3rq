@@ -5,16 +5,16 @@
 | **Character Creation** | **Character Interaction** | **Character Customization** |
 | Uses ArchetypeAPI data | Enriched by MindPulse-150 data | Combines data from both APIs |
 
-## Character Creation
+### Character Creation
 - Utilizes data from **ArchetypeAPI**
 
-## Interaction
+### Interaction
 - Enriched by personality data from **MindPulse-150**
 
-## Customization
+### Customization
 - Combines data from **ArchetypeAPI** and insights from **MindPulse-150**
 
-## ArchetypeAPI 
+# ArchetypeAPI 
 
 | Character Data | Template Provision | Personality Integration |
 |:--------------:|:-------------------:|:-----------------------:|
@@ -27,7 +27,7 @@
 ### Personality Integration
 - Links with MindPulse-150 for character trait alignment
 
-## MindPulse-150 
+# MindPulse-150 
 
 | Personality Test | Data Analysis | User Persona |
 |:----------------:|:-------------:|:------------:|
