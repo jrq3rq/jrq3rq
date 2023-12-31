@@ -1,4 +1,9 @@
-# Carl-XII
+# Carl-XII 
+
+| ArchetypeAPI | Interaction with MindPulse-150 | Customization |
+|:------------:|:------------------------------:|:-------------:|
+| **Character Creation** | **Character Interaction** | **Character Customization** |
+| Uses ArchetypeAPI data | Enriched by MindPulse-150 data | Combines data from both APIs |
 
 ## Character Creation
 - Utilizes data from **ArchetypeAPI**
@@ -9,7 +14,12 @@
 ## Customization
 - Combines data from **ArchetypeAPI** and insights from **MindPulse-150**
 
-## ArchetypeAPI
+## ArchetypeAPI 
+
+| Character Data | Template Provision | Personality Integration |
+|:--------------:|:-------------------:|:-----------------------:|
+| Foundational data for character development | Jungian archetype templates | Links with MindPulse-150 for trait alignment |
+
 ### Character Data
 - Provides foundational data for Carl-XII character development
 ### Template Provision
@@ -17,7 +27,12 @@
 ### Personality Integration
 - Links with MindPulse-150 for character trait alignment
 
-## MindPulse-150
+## MindPulse-150 
+
+| Personality Test | Data Analysis | User Persona |
+|:----------------:|:-------------:|:------------:|
+| In-depth personality assessment | Comprehensive personality profiles | Feeds data to Carl-XII for interactions |
+
 ### Personality Test
 - In-depth user personality assessment
 ### Data Analysis
@@ -25,22 +40,4 @@
 ### User Persona
 - Feeds personality data to Carl-XII for personalized interactions
 - Integrates with ArchetypeAPI for character customization
-# Carl-XII Project Structure
-
-| ArchetypeAPI | Interaction with MindPulse-150 | Customization |
-|:------------:|:------------------------------:|:-------------:|
-| **Character Creation** | **Character Interaction** | **Character Customization** |
-| Uses ArchetypeAPI data | Enriched by MindPulse-150 data | Combines data from both APIs |
-
-## ArchetypeAPI Components
-
-| Character Data | Template Provision | Personality Integration |
-|:--------------:|:-------------------:|:-----------------------:|
-| Foundational data for character development | Jungian archetype templates | Links with MindPulse-150 for trait alignment |
-
-## MindPulse-150 Components
-
-| Personality Test | Data Analysis | User Persona |
-|:----------------:|:-------------:|:------------:|
-| In-depth personality assessment | Comprehensive personality profiles | Feeds data to Carl-XII for interactions |
 
