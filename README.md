@@ -9,9 +9,8 @@
                    /       |        \
   [Character Creation] [Interaction] [Customization]
 ```
-
+|   Character Creation   |     Character Interaction      |    Character Customization   | 
 | :--------------------: | :----------------------------: | :--------------------------: |
-| **Character Creation** |   **Character Interaction**    | **Character Customization**  |
 | Uses ArchetypeAPI data | Enriched by MindPulse-150 data | Combines data from both APIs |
 
 ### Character Creation
