@@ -1,4 +1,3 @@
-```markdown
 # Carl-XII
 
 ## Character Creation
@@ -26,5 +25,3 @@
 ### User Persona
 - Feeds personality data to Carl-XII for personalized interactions
 - Integrates with ArchetypeAPI for character customization
-
-```
