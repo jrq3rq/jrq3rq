@@ -10,6 +10,8 @@
   [Character Creation] [Interaction] [Customization]
 ```
 
+[![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-the-badge)](https://carl-xii.web.app/)
+
 |      ArchetypeAPI      | Interaction with MindPulse-150 |        Customization         |
 | :--------------------: | :----------------------------: | :--------------------------: |
 | **Character Creation** |   **Character Interaction**    | **Character Customization**  |
@@ -39,6 +41,8 @@
 [Character Data] [Template Provision] [Personality Integration]
 ```
 
+[![ArchetypeAPI](https://img.shields.io/badge/-ArchetypeAPI-orange?style=for-the-badge)](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
+
 |               Character Data                |     Template Provision      |           Personality Integration            |
 | :-----------------------------------------: | :-------------------------: | :------------------------------------------: |
 | Foundational data for character development | Jungian archetype templates | Links with MindPulse-150 for trait alignment |
@@ -66,6 +70,8 @@
                   /         |        \
    [Personality Test] [Data Analysis] [User Persona]
 ```
+
+[![MindPulse-150](https://img.shields.io/badge/-MindPulse--150-brightgreen?style=for-the-badge)](https://mindpulse-150.web.app/)
 
 |        Personality Test         |           Data Analysis            |              User Persona               |
 | :-----------------------------: | :--------------------------------: | :-------------------------------------: |
