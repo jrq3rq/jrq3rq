@@ -10,11 +10,8 @@
   [Character Creation] [Interaction] [Customization]
 ```
 
-[![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-the-badge)](https://carl-xii.web.app/)
-
 |      ArchetypeAPI      | Interaction with MindPulse-150 |        Customization         |
 | :--------------------: | :----------------------------: | :--------------------------: |
-| **Character Creation** |   **Character Interaction**    | **Character Customization**  |
 | Uses ArchetypeAPI data | Enriched by MindPulse-150 data | Combines data from both APIs |
 
 ### Character Creation
