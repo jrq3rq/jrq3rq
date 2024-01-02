@@ -2,6 +2,8 @@
 
 ## Carl-XII
 
+[![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-the-badge)](https://carl-xii.web.app/)
+
 ```css
                       [ Carl-XII ]
                      /     |      \
@@ -10,11 +12,8 @@
   [Character Creation] [Interaction] [Customization]
 ```
 
-[![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-the-badge)](https://carl-xii.web.app/)
-
-|      ArchetypeAPI      | Interaction with MindPulse-150 |        Customization         |
-| :--------------------: | :----------------------------: | :--------------------------: |
 | **Character Creation** |   **Character Interaction**    | **Character Customization**  |
+| :--------------------: | :----------------------------: | :--------------------------: |
 | Uses ArchetypeAPI data | Enriched by MindPulse-150 data | Combines data from both APIs |
 
 ### Character Creation
@@ -31,6 +30,8 @@
 
 ## ArchetypeAPI
 
+[![ArchetypeAPI](https://img.shields.io/badge/-ArchetypeAPI-orange?style=for-the-badge)](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
+
 ```css
                   \       |        /
                    \      |       /
@@ -40,8 +41,6 @@
                   /        |        \
 [Character Data] [Template Provision] [Personality Integration]
 ```
-
-[![ArchetypeAPI](https://img.shields.io/badge/-ArchetypeAPI-orange?style=for-the-badge)](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
 
 |               Character Data                |     Template Provision      |           Personality Integration            |
 | :-----------------------------------------: | :-------------------------: | :------------------------------------------: |
@@ -61,6 +60,8 @@
 
 ## MindPulse-150
 
+[![MindPulse-150](https://img.shields.io/badge/-MindPulse--150-brightgreen?style=for-the-badge)](https://mindpulse-150.web.app/)
+
 ```css
                   \         |        /
                    \        |       /
@@ -70,8 +71,6 @@
                   /         |        \
    [Personality Test] [Data Analysis] [User Persona]
 ```
-
-[![MindPulse-150](https://img.shields.io/badge/-MindPulse--150-brightgreen?style=for-the-badge)](https://mindpulse-150.web.app/)
 
 |        Personality Test         |           Data Analysis            |              User Persona               |
 | :-----------------------------: | :--------------------------------: | :-------------------------------------: |
