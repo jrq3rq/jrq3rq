@@ -2,7 +2,7 @@
 
 ## Carl-XII
 
-[![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-the-badge)](https://carl-xii.web.app/)
+[![Archetype Academy Nexus](https://img.shields.io/badge/-Archetype%20Academy%20Nexus-green?style=for-the-badge)](https://github.com/jrq3rq/archetype-academy-nexus)
 
 ```css
                       [ Carl-XII ]
@@ -11,6 +11,8 @@
                    /       |        \
   [Character Creation] [Interaction] [Customization]
 ```
+
+Prototype: [![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-the-badge)](https://carl-xii.web.app/)
 
 | **Character Creation** |   **Character Interaction**    | **Character Customization**  |
 | :--------------------: | :----------------------------: | :--------------------------: |
