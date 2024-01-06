@@ -60,7 +60,7 @@ Prototype: [![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-t
 
 - Links with MindPulse-150 for character trait alignment
 
-## MindPulse-150
+## MindPulse-150: The Archetype Academy Admissions
 
 [![MindPulse-150](https://img.shields.io/badge/-MindPulse--150-brightgreen?style=for-the-badge)](https://mindpulse-150.web.app/)
 
@@ -68,7 +68,7 @@ Prototype: [![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-t
                   \         |        /
                    \        |       /
                     \       |      /
-                     [MindPulse-150]
+              [ MindPulse-150(Application) ]
                     /       |       \
                   /         |        \
    [Personality Test] [Data Analysis] [User Persona]
