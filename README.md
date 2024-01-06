@@ -1,4 +1,4 @@
-# Archetype Academy Nexus: AI Character Matrix
+# The Archetype Academy Nexus: AI Character Matrix
 
 ## Carl-XII
 
