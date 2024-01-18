@@ -156,7 +156,7 @@ Welcome to my portfolio of projects! Here, I delve into a variety of application
   - Integrates with MindPulse-150 for character traits.
 - **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
 
-### MindPulse-150: The Archetype Academy Assessment
+### MindPulse-150: The Archetype Academy Big5 Personality Assessment
 
 - **Description:**
   - Conducts in-depth personality assessments.
