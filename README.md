@@ -91,7 +91,12 @@ Prototype: [![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-t
 
 # Projects Portfolio
 
-Welcome to my portfolio of projects! Here, I delve into a variety of applications and tools that I've passionately developed, showcasing my multifaceted skills and interests across different technology domains. This portfolio includes Progressive Web Apps, Custom GPTs, my personal portfolio website, and the innovative Archetype Academy Nexus project.
+Welcome to my little corner of the web where I tinker with ideas and bring them to life! This space is all about exploring different technologies and pushing boundaries. You'll find everything from Progressive Web Apps and Custom GPTs to my personal website. And then there's the Archetype Academy Nexus – a vibrant workshop where budding AI character alchemists can hone their craft, transforming raw ideas into well-defined, compelling characters. It’s not just a project; it’s an educational journey into the art of character creation and applied archetypal symbolism.
+
+Dive in and see what I've been cooking up! If you have any questions, ideas, or would like to contribute in any way, please feel free to reach out. I'm always open to collaboration and love discussing these projects with fellow enthusiasts and curious minds alike!
+
+- **Twitter:** [@jrq3rq](https://twitter.com/jrq3rq)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/james-rrsantos/)
 
 ---
 
@@ -116,7 +121,7 @@ Welcome to my portfolio of projects! Here, I delve into a variety of application
 ### Brand Management Software
 
 - **Project Name:** Archetype Brand Transformer
-- **Description:** A Custom GPT solution for MarTech, CX Management, Design & Creative Software, AI & Data Analytics, and DAM.
+- **Description:** A Custom GPT solution for Marketing Technology (MarTech), Customer Experience (CX) Management, Design & Creative Software, AI & Data Analytics, and Digital Asset Management (DAM).
 - **Link:** [Archetype Brand Transformer](https://chat.openai.com/g/g-SXTcCxFtV-archetype-brand-transformer)
 
 ### Creative Writing and Storytelling Tool
@@ -133,7 +138,7 @@ Welcome to my portfolio of projects! Here, I delve into a variety of application
 
 - **Project Name:** James RRS Personal Website
 - **Description:** Showcasing my professional work and skills, this portfolio site is developed using Bootstrap, HTML, CSS, and is hosted on AWS.
-- **Link:** [James RRS Personal Website](https://jamesrrs.me)
+- **Link:** [My Personal Website](https://jamesrrs.me)
 
 ---
 
