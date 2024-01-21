@@ -95,7 +95,7 @@ Welcome to my little corner of the web where I tinker with ideas and bring them 
 
 Dive in and see what I've been cooking up! If you have any questions, ideas, or would like to contribute in any way, please feel free to reach out. I'm always open to collaboration and love discussing these projects with fellow enthusiasts and curious minds alike!
 
-- **Twitter:** [@jrq3rq](https://twitter.com/jrq3rq)
+- **Twitter/X:** [@jrq3rq](https://twitter.com/jrq3rq)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/james-rrsantos/)
 
 ---
