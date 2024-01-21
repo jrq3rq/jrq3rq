@@ -105,7 +105,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 ### Consulting PWA
 
 - **Project Name:** Studiovoice2fly
-- **Description:** A React-based consulting Progressive Web App.
+- **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
 - **Link:** [Studiovoice2fly](https://studiovoice2fly.com/)
 
 ### Personal Research PWA
@@ -121,13 +121,13 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 ### Brand Management Software
 
 - **Project Name:** Archetype Brand Transformer
-- **Description:** A Custom GPT solution for Marketing Technology (MarTech), Customer Experience (CX) Management, Design & Creative Software, AI & Data Analytics, and Digital Asset Management (DAM).
+- **Description:** An AI tool, designed for use in the GPT store, that transforms brand identity using design, psychological archetypes, and data-driven insights.
 - **Link:** [Archetype Brand Transformer](https://chat.openai.com/g/g-SXTcCxFtV-archetype-brand-transformer)
 
 ### Creative Writing and Storytelling Tool
 
 - **Project Name:** StoryspinnerGPT
-- **Description:** A novel GPT-based tool for enhancing creative writing and storytelling.
+- **Description:** A GPT store application designed to assist writers by generating original narrative ideas from existing stories or user inputs. It offers a range of prompts to produce creative story ideas, each with unique titles and summaries.
 - **Link:** [StoryspinnerGPT](https://chat.openai.com/g/g-7T3hhDJO7-storyspinner)
 
 ---
@@ -146,7 +146,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ### Carl-XII
 
-- **Description:** An innovative prototype for character development and interaction, leveraging ArchetypeAPI and MindPulse-150 data.
+- **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
 - **Prototype Link:** [Carl-XII](https://carl-xii.web.app/)
 - **Key Features:**
   - Utilizes data from **ArchetypeAPI**
@@ -155,7 +155,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ### ArchetypeAPI
 
-- **Description:**
+- **Description:** A tool for character development in storytelling, gaming, and psychological analysis, based on Carl Jung's archetypal theory.
   - Provides foundational data for character development.
   - Offers Jungian archetype templates.
   - Integrates with MindPulse-150 for character traits.
@@ -163,7 +163,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ### MindPulse-150: The Archetype Academy Big5 Personality Assessment
 
-- **Description:**
+- **Description:** A comprehensive personality assessment tool that combines the Big Five personality traits with 12 Jungian archetypes, designed to explore personality intricacies and match users with their ideal personality companion profiles.
   - Conducts in-depth personality assessments.
   - Generates comprehensive personality profiles.
   - Feeds data to Carl-XII for personalized interactions.
