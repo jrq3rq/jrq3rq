@@ -116,6 +116,8 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 - **Project Name:** Studiovoice2fly
 - **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
+- **Marketing Channels:** Digital marketing, industry events, and partnerships with tech incubators.
+- **Growth Strategy:** Expanding service offerings and exploring B2B collaborations.
 - **Link:** [Studiovoice2fly](https://studiovoice2fly.com/)
 
 ### (Product as a 'Personal' Service) Research PWA
@@ -144,9 +146,13 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ## (Primary Product) The Archetype Academy Nexus: AI Character Matrix
 
+- **Target Market:** AR enthusiasts, game developers, storytellers, and educators.
+
 ### (Sub-Product) Carl-XII
 
 - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
+- **Target Market:** Tech-savvy small businesses and creative professionals.
+- **Marketing Channels:** Game developers, educators, psychologists, and creative writers.
 - **Prototype Link:** [Carl-XII](https://carl-xii.web.app/)
 - **Key Features:**
   - Utilizes data from **ArchetypeAPI**
@@ -156,6 +162,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 ### (Sub-Product) ArchetypeAPI
 
 - **Description:** A tool for character development in storytelling, gaming, and psychological analysis, based on Carl Jung's archetypal theory.
+- **Target Market:** Developers, storytellers, and marketing professionals.
   - Provides foundational data for character development.
   - Offers Jungian archetype templates.
   - Integrates with MindPulse-150 for character traits.
