@@ -142,9 +142,9 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ---
 
-## The Archetype Academy Nexus: AI Character Matrix
+## (Product) The Archetype Academy Nexus: AI Character Matrix
 
-### Carl-XII
+### (Extension Product) Carl-XII
 
 - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
 - **Prototype Link:** [Carl-XII](https://carl-xii.web.app/)
@@ -153,7 +153,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
   - Enriched by personality data from **MindPulse-150**
   - Combines data from both APIs for holistic character creation
 
-### ArchetypeAPI
+### (Extension Product) ArchetypeAPI
 
 - **Description:** A tool for character development in storytelling, gaming, and psychological analysis, based on Carl Jung's archetypal theory.
   - Provides foundational data for character development.
@@ -161,7 +161,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
   - Integrates with MindPulse-150 for character traits.
 - **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
 
-### MindPulse-150: The Archetype Academy Big5 Personality Assessment
+### (Extension Product) MindPulse-150: The Archetype Academy Big5 Personality Assessment
 
 - **Description:** A comprehensive personality assessment tool that combines the Big Five personality traits with 12 Jungian archetypes, designed to explore personality intricacies and match users with their ideal personality companion profiles.
   - Conducts in-depth personality assessments.
