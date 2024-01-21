@@ -132,9 +132,9 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ---
 
-## Portfolio Website
+## Personal Website
 
-### Personal Portfolio
+### Portfolio
 
 - **Project Name:** James RRS Personal Website
 - **Description:** Showcasing my professional work and skills, this portfolio site is developed using Bootstrap, HTML, CSS, and is hosted on AWS.
