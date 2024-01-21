@@ -100,15 +100,25 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ---
 
-## Progressive Web Apps (PWAs)
+## Personal Website
 
-### Consulting PWA
+### Portfolio
+
+- **Project Name:** James RRS Personal Website
+- **Description:** Showcasing my professional work and skills, this portfolio site is developed using Bootstrap, HTML, CSS, and is hosted on AWS.
+- **Link:** [My Personal Website](https://jamesrrs.me)
+
+---
+
+## Progressive Web Applications (PWAs)
+
+### (Product as a Service) Consulting PWA
 
 - **Project Name:** Studiovoice2fly
 - **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
 - **Link:** [Studiovoice2fly](https://studiovoice2fly.com/)
 
-### Personal Research PWA
+### (Product as a Personal Service) Research PWA
 
 - **Project Name:** James RRS Projects App
 - **Description:** A dedicated PWA for personal research and exploration.
@@ -118,27 +128,17 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ## Custom GPTs
 
-### Brand Management Software
+### (Product) Brand Management Software
 
 - **Project Name:** Archetype Brand Transformer
 - **Description:** An AI tool, designed for use in the GPT store, that transforms brand identity using design, psychological archetypes, and data-driven insights.
 - **Link:** [Archetype Brand Transformer](https://chat.openai.com/g/g-SXTcCxFtV-archetype-brand-transformer)
 
-### Creative Writing and Storytelling Tool
+### (Product) Creative Writing and Storytelling Tool
 
 - **Project Name:** StoryspinnerGPT
 - **Description:** A GPT store application designed to assist writers by generating original narrative ideas from existing stories or user inputs. It offers a range of prompts to produce creative story ideas, each with unique titles and summaries.
 - **Link:** [StoryspinnerGPT](https://chat.openai.com/g/g-7T3hhDJO7-storyspinner)
-
----
-
-## Personal Website
-
-### Portfolio
-
-- **Project Name:** James RRS Personal Website
-- **Description:** Showcasing my professional work and skills, this portfolio site is developed using Bootstrap, HTML, CSS, and is hosted on AWS.
-- **Link:** [My Personal Website](https://jamesrrs.me)
 
 ---
 
