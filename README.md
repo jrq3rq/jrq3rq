@@ -118,7 +118,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 - **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
 - **Link:** [Studiovoice2fly](https://studiovoice2fly.com/)
 
-### (Product as a Personal Service) Research PWA
+### (Product as a 'Personal' Service) Research PWA
 
 - **Project Name:** James RRS Projects App
 - **Description:** A dedicated PWA for personal research and exploration.
