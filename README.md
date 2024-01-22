@@ -130,13 +130,13 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ## Custom GPTs
 
-### (Product) Brand Management Software
+### (Product #5) Brand Management Software
 
 - **Project Name:** Archetype Brand Transformer
 - **Description:** An AI tool, designed for use in the GPT store, that transforms brand identity using design, psychological archetypes, and data-driven insights.
 - **Link:** [Archetype Brand Transformer](https://chat.openai.com/g/g-SXTcCxFtV-archetype-brand-transformer)
 
-### (Product) Creative Writing and Storytelling Tool
+### (Product #6) Creative Writing and Storytelling Tool
 
 - **Project Name:** StoryspinnerGPT
 - **Description:** A GPT store application designed to assist writers by generating original narrative ideas from existing stories or user inputs. It offers a range of prompts to produce creative story ideas, each with unique titles and summaries.
@@ -144,11 +144,27 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ---
 
-## (Primary Product) The Archetype Academy Nexus: AI Character Matrix
+## (Product #7) 'Judge My Baby'
+
+### Interactive Progressive Web Applications (PWA)
+
+- **Project Name:** Judge My Baby
+- **Description:** An innovative platform revolutionizing project feedback for creators and entrepreneurs. Through interactive 'baby' illustrations, users receive segmented, playful yet meaningful feedback on their projects.
+- **Key Objectives:**
+  - Transform the portfolio review process into an interactive experience.
+  - Foster a community-oriented platform for creators to give and receive feedback.
+  - Simplify the feedback mechanism to encourage participation from non-experts.
+- **Target Market:** Creative individuals, entrepreneurs, and anyone seeking project feedback.
+- **Strengths:** Unique concept, engaging interface, community building, ease of use.
+<!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
+
+---
+
+## (Horizon Product #1) The Archetype Academy Nexus: AI Character Matrix
 
 - **Target Market:** AR enthusiasts, game developers, storytellers, and educators.
 
-### (Sub-Product) Carl-XII
+### (Horizon Sub-Product #0) Carl-XII
 
 - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
 - **Target Market:** Tech-savvy small businesses and creative professionals.
@@ -159,7 +175,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
   - Enriched by personality data from **MindPulse-150**
   - Combines data from both APIs for holistic character creation
 
-### (Sub-Product) ArchetypeAPI
+### (Product #2) ArchetypeAPI
 
 - **Description:** A tool for character development in storytelling, gaming, and psychological analysis, based on Carl Jung's archetypal theory.
 - **Target Market:** Developers, storytellers, and marketing professionals.
@@ -168,7 +184,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
   - Integrates with MindPulse-150 for character traits.
 - **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
 
-### (Sub-Product) MindPulse-150: The Archetype Academy Big5 Personality Assessment
+### (Product #3) MindPulse-150: The Archetype Academy Big5 Personality Assessment
 
 - **Description:** A comprehensive personality assessment tool that combines the Big Five personality traits with 12 Jungian archetypes, designed to explore personality intricacies and match users with their ideal personality companion profiles.
   - Conducts in-depth personality assessments.
