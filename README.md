@@ -112,7 +112,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ## Progressive Web Applications (PWAs)
 
-### (Product as a Service) Consulting PWA
+### (Products as a Service) Consulting PWA
 
 - **Project Name:** Studiovoice2fly
 - **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
