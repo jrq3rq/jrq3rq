@@ -89,7 +89,7 @@ Prototype: [![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-t
 - Feeds personality data to Carl-XII for personalized interactions
 - Integrates with ArchetypeAPI for character customization -->
 
-# Projects Portfolio
+# Projects
 
 Welcome to my little corner of the web where I tinker with ideas and bring them to life! This space is all about exploring different technologies and pushing boundaries. You'll find everything from Progressive Web Apps and Custom GPTs to my personal website. And then there's the Archetype Academy Nexus – a vibrant workshop where budding AI character alchemists can hone their craft, transforming raw ideas into well-defined, compelling characters. It’s not just a project; it’s an educational journey into the art of character creation and applied archetypal symbolism.
 
