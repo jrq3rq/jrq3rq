@@ -128,7 +128,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 ---
 
-## Custom GPTs
+## Custom GPTs | AI-powered Custom Solutions
 
 ### (Product #8) Strategic Business Partner
 
