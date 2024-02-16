@@ -135,6 +135,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 - **Headline:** Mastering Business Strategy: Unlocking Potential with SWOT Analysis
 - **Description:** StrategicBusinessPartner-GPT is an AI platform aimed at enhancing small and medium-sized businesses, especially in blue-collar and artisan sectors, through deep SWOT analysis. It offers customized strategic planning, user profiling, and actionable insights using real-time data and benchmarks. Additionally, it provides educational resources on industry trends for informed decision-making, supports growth, and improves positioning. Its user-friendly interface and data privacy commitment make it a vital partner for entrepreneurial success.
+- **Link:** [Strategic Business Partner](https://chat.openai.com/g/g-3aqW0lmMT-strategic-business-partner)
 
 ### (Product #4) Brand Management Software
 
@@ -147,17 +148,19 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 - **Headline:** Generates closely related and outside-the-box rebranding ideas.
   Generates closely related and outside-the-box rebranding ideas.
 - **Description:** BusinessRebranding-GPT is a GPT app that helps businesses through the rebranding process by generating ideas ranging from closely related to original identity to innovative concepts. It balances creativity with practicality, ensuring feasible suggestions. Ideal for businesses aiming to refresh their image or pivot strategy, it provides tailored advice for growth and relevance.
+- **Link:** [Busines Rebranding](https://chat.openai.com/g/g-np3Dj7gOE-business-rebranding-tool)
 
 ### (Product #5) Creative Writing and Storytelling Tool
 
 - **Project Name:** StoryspinnerGPT
 - **Description:** A GPT store application designed to assist writers by generating original narrative ideas from existing stories or user inputs. It offers a range of prompts to produce creative story ideas, each with unique titles and summaries.
-- **Link:** [StoryspinnerGPT](https://chat.openai.com/g/g-7T3hhDJO7-storyspinner)
+- **Link:** [StorySpinnerGPT](https://chat.openai.com/g/g-7T3hhDJO7-storyspinner)
 
 ### (Product #7) Rebel Advisor
 
 - **Headline:** A critical analyzer of ideas, providing honest feedback to improve business projects.
 - **Description:** RebelAdvisor-GPT is a critical business advising tool that offers honest, constructive feedback to refine business projects. It helps identify potential shortcomings and provides actionable suggestions for improvement, fostering development and innovation. By encouraging critical assessment, RebelAdvisor-GPT ensures thorough scrutiny of projects for quality outcomes, making it a valuable asset for idea validation, attention generation, and revenue increase.
+- **Link:** [Rebel Advisor](https://chat.openai.com/g/g-KjtcrDj33-rebel-advisor)
 
 ---
 
