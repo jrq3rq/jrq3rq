@@ -109,7 +109,7 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 
 <!-- - **X:** [@jrq3rq](https://twitter.com/jrq3rq) -->
 
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/james-rrsantos/)
+- **LinkedIn:** [james-rrsantos](https://www.linkedin.com/in/james-rrsantos/)
 
 ---
 
@@ -119,7 +119,7 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 
 - **Project Name:** James RRS Personal Website
 - **Description:** Showcasing my professional work and skills, this portfolio site is developed using Bootstrap, HTML, CSS, and is hosted on AWS.
-- **Link:** [My Personal Website](https://jamesrrs.me)
+- **Link:** [jamesrrs.me](https://jamesrrs.me)
 
 ---
 
