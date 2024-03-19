@@ -91,13 +91,25 @@ Prototype: [![Carl-XII](https://img.shields.io/badge/-Carl--XII-blue?style=for-t
 
 # Projects
 
-Welcome to my little corner of the web where I tinker with ideas and bring them to life! This space is all about exploring different technologies and pushing boundaries. You'll find everything from Progressive Web Apps and Custom GPTs to my personal website. And then there's the Archetype Academy Nexus – a vibrant workshop where budding AI character alchemists can hone their craft, transforming raw ideas into well-defined, compelling characters. It’s not just a project; it’s an educational journey into the art of character creation and applied archetypal symbolism.
+<!-- Welcome to my little corner of the web where I tinker with ideas and bring them to life! This space is all about exploring different technologies and pushing boundaries. You'll find everything from Progressive Web Apps and Custom GPTs to my personal website. And then there's the Archetype Academy Nexus – a vibrant workshop where budding AI character alchemists can hone their craft, transforming raw ideas into well-defined, compelling characters. It’s not just a project; it’s an educational journey into the art of character creation and applied archetypal symbolism.
 
-Dive in and see what I've been cooking up! If you have any questions, ideas, or would like to contribute in any way, please feel free to reach out. I'm always open to collaboration and love discussing these projects with fellow enthusiasts and curious minds alike!
+Dive in and see what I've been cooking up! If you have any questions, ideas, or would like to contribute in any way, please feel free to reach out. I'm always open to collaboration and love discussing these projects with fellow enthusiasts and curious minds alike! -->
+
+Welcome to my digital playground where ideas come to life! My passion lies in pushing the boundaries of technology, whether it's through building Progressive Web Apps, crafting Custom GPTs, or sharing my thoughts on my personal website.
+
+One of my flagship projects is the Archetype Academy Nexus – a unique educational platform that empowers aspiring AI character alchemists to:
+
+- Master the art of character creation
+- Apply archetypal symbolism to their creations
+- Transform raw ideas into compelling, well-defined characters
+
+Through the Nexus, I aim to provide not just a project, but an immersive learning experience that explores the intersection of AI, storytelling, and psychology.
+
+Feel free to explore my projects and don't hesitate to reach out if you have any questions, ideas, or collaboration opportunities. Let's push the boundaries of what's possible together!
 
 <!-- - **X:** [@jrq3rq](https://twitter.com/jrq3rq) -->
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/james-rrsantos/)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/james-rrsantos/)
 
 ---
 
@@ -119,13 +131,13 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 - **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
 - **Marketing Channels:** Digital marketing, industry events, and partnerships with tech incubators.
 - **Growth Strategy:** Expanding service offerings and exploring B2B collaborations.
-- **Link:** [Studiovoice2fly](https://studiovoice2fly.com/)
+- **Link:** [Studiovoice2fly.com](https://studiovoice2fly.com/)
 
 ### (Product as a 'Personal' Service) Research PWA
 
 - **Project Name:** James RRS Projects App
 - **Description:** A dedicated PWA for personal research and exploration.
-- **Link:** [James RRS Projects App](https://jamesrrs-projects-app.web.app/)
+- **Link:** [jamesrrs-projects-app.web.app](https://jamesrrs-projects-app.web.app/)
 
 ---
 
