@@ -116,7 +116,9 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ## Progressive Web Applications (PWAs) -->
 
-### (Products as a Service) Consulting PWA
+<!-- ### (Products as a Service) Consulting PWA -->
+
+### Consulting Service
 
 - **Project Name:** Studiovoice2fly
 - **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
@@ -124,9 +126,11 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 - **Growth Strategy:** Expanding service offerings and exploring B2B collaborations.
 - **Link:** [Studiovoice2fly.com](https://studiovoice2fly.com/)
 
-### (Product as a 'Personal' Service) Research PWA
+<!-- ### (Product as a 'Personal' Service) Research PWA -->
 
-- **Project Name:** James RRS Projects App
+### Research Website
+
+- **Project Name:** James RRS
 - **Description:** A dedicated PWA for personal research and exploration.
 - **Link:** [jamesrrs-projects-app.web.app](https://jamesrrs-projects-app.web.app/)
 
