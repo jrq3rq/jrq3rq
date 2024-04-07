@@ -214,11 +214,11 @@ As we continue to refine and expand our platform, we remain committed to pushing
 - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
 - **Target Market:** Tech-savvy small businesses and creative professionals.
 - **Marketing Channels:** Game developers, educators, psychologists, and creative writers.
-- **Prototype Link:** [Carl-XII](https://carl-xii.web.app/)
 - **Key Features:**
   - Utilizes data from **ArchetypeAPI**
   - Enriched by personality data from **MindPulse-150**
   - Combines data from both APIs for holistic character creation
+- **Link:** [Carl-XII](https://carl-xii.web.app/)
 
 ### (Product #2) ArchetypeAPI
 
