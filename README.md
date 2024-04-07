@@ -176,7 +176,7 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 - **Strengths:** Unique concept, engaging interface, community building, ease of use.
 <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
 
-### (Horizon Product #1) The Archetype Academy: AI Character Matrix
+### (Horizon Product #1) The Archetype Academy Nexus: AI Character Matrix
 
 <!-- Introducing The Archetype Academy, a groundbreaking digital education platform that empowers users to create, collect, and interact with AI-powered companions. Our innovative suite of tools, including a symbolic character design suite, AR Archetype Playground, AI Chatbot Portal, and secure NFT Wallet, provides a seamless and engaging experience for personalized learning.
 
