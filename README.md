@@ -107,7 +107,7 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ## Personal Website -->
 
-### Portfolio
+### Portfolio Website
 
 <!-- - **Project Name:** James RRS Personal Website -->
 
