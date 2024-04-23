@@ -136,38 +136,38 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 ## Custom GPTs & AI-powered Solutions
 
-### (Product #8) Strategic Business Partner
+### (#8) Strategic Business Partner
 
 - **Project Name:** Strategic Business Partner
 - **Description:** StrategicBusinessPartner-GPT is an AI platform aimed at enhancing small and medium-sized businesses, especially in blue-collar and artisan sectors, through deep SWOT analysis. It offers customized strategic planning, user profiling, and actionable insights using real-time data and benchmarks. Additionally, it provides educational resources on industry trends for informed decision-making, supports growth, and improves positioning. Its user-friendly interface and data privacy commitment make it a vital partner for entrepreneurial success.
 - **Link:** [Strategic Business Partner](https://chat.openai.com/g/g-3aqW0lmMT-strategic-business-partner)
 
-### (Product #4) Brand Management Software
+### (#4) Brand Management Software
 
 - **Project Name:** Archetype Brand Transformer
 - **Description:** An AI tool, designed for use in the GPT store, that transforms brand identity using design, psychological archetypes, and data-driven insights.
 - **Link:** [Archetype Brand Transformer](https://chat.openai.com/g/g-SXTcCxFtV-archetype-brand-transformer)
 
-### (Product #9) Business Rebranding
+### (#9) Business Rebranding
 
 - **Project Name:** Business
 Rebranding
 - **Description:** BusinessRebranding-GPT is a GPT app that helps businesses through the rebranding process by generating ideas ranging from closely related to original identity to innovative concepts. It balances creativity with practicality, ensuring feasible suggestions. Ideal for businesses aiming to refresh their image or pivot strategy, it provides tailored advice for growth and relevance.
 - **Link:** [Busines Rebranding](https://chat.openai.com/g/g-np3Dj7gOE-business-rebranding-tool)
 
-### (Product #5) Creative Writing and Storytelling Tool
+### (#5) Creative Writing and Storytelling Tool
 
 - **Project Name:** Storyspinner
 - **Description:** A GPT store application designed to assist writers by generating original narrative ideas from existing stories or user inputs. It offers a range of prompts to produce creative story ideas, each with unique titles and summaries.
 - **Link:** [StorySpinnerGPT](https://chat.openai.com/g/g-7T3hhDJO7-storyspinner)
 
-### (Product #7) Rebel Advisor
+### (#7) Rebel Advisor
 
 - **Project Name:** Rebel Advisor
 - **Description:** RebelAdvisor-GPT is a critical business advising tool that offers honest, constructive feedback to refine business projects. It helps identify potential shortcomings and provides actionable suggestions for improvement, fostering development and innovation. By encouraging critical assessment, RebelAdvisor-GPT ensures thorough scrutiny of projects for quality outcomes, making it a valuable asset for idea validation, attention generation, and revenue increase.
 - **Link:** [Rebel Advisor](https://chat.openai.com/g/g-KjtcrDj33-rebel-advisor)
 
-### (Product #6) 'Judge My Baby'
+### (#6) 'Judge My Baby'
 
 <!-- - **Project Name:** Judge My Baby -->
 
@@ -180,7 +180,7 @@ Rebranding
 - **Strengths:** Unique concept, engaging interface, community building, ease of use.
 <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
 
-### (Horizon Product #1) The Archetype Academy Nexus: AI Character Matrix
+### (Horizon #1) The Archetype Academy Nexus: AI Character Matrix
 
 <!-- Introducing The Archetype Academy, a groundbreaking digital education platform that empowers users to create, collect, and interact with AI-powered companions. Our innovative suite of tools, including a symbolic character design suite, AR Archetype Playground, AI Chatbot Portal, and secure NFT Wallet, provides a seamless and engaging experience for personalized learning.
 
@@ -209,7 +209,7 @@ As we continue to refine and expand our platform, we remain committed to pushing
   - Continuous Improvement:
     - Continuous refinement and expansion of features
 
-### (Horizon Sub-Product #0) Carl-XII
+### (Horizon Sub #0) Carl-XII
 
 - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
 - **Target Market:** Tech-savvy small businesses and creative professionals.
@@ -220,7 +220,7 @@ As we continue to refine and expand our platform, we remain committed to pushing
   - Combines data from both APIs for holistic character creation
 - **Link:** [Carl-XII](https://carl-xii.web.app/)
 
-### (Product #2) ArchetypeAPI
+### (#2) ArchetypeAPI
 
 - **Description:** A tool for character development in storytelling, gaming, and psychological analysis, based on Carl Jung's archetypal theory.
 - **Target Market:** Developers, storytellers, and marketing professionals.
@@ -229,7 +229,7 @@ As we continue to refine and expand our platform, we remain committed to pushing
   - Integrates with MindPulse-150 for character traits.
 - **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
 
-### (Product #3) MindPulse-150: The Archetype Academy Big5 Personality Assessment
+### (#3) MindPulse-150: The Archetype Academy Big5 Personality Assessment
 
 - **Description:** A comprehensive personality assessment tool that combines the Big Five personality traits with 12 Jungian archetypes, designed to explore personality intricacies and match users with their ideal personality companion profiles.
   - Conducts in-depth personality assessments.
