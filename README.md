@@ -107,7 +107,7 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ## Personal Website -->
 
-### Portfolio Website
+### Portfolio
 
 <!-- - **Project Name:** James RRS Personal Website -->
 
@@ -118,20 +118,21 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ### (Products as a Service) Consulting PWA -->
 
-### Consulting Service
+### Consulting
 
 - **Project Name:** Studiovoice2fly
 - **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
-- **Marketing Channels:** Digital marketing, industry events, and partnerships with tech incubators.
-- **Growth Strategy:** Expanding service offerings and exploring B2B collaborations.
+  <!-- - **Marketing Channels:** Digital marketing, industry events, and partnerships with tech incubators. -->
+  <!-- - **Growth Strategy:** Expanding service offerings and exploring B2B collaborations. -->
 - **Link:** [Studiovoice2fly.com](https://studiovoice2fly.com/)
 
 <!-- ### (Product as a 'Personal' Service) Research PWA -->
 
-### Research Website
+### Research
 
-- **Project Name:** James RRS
-- **Description:** A dedicated PWA for personal research and exploration.
+<!-- - **Project Name:** James RRS -->
+
+- **Description:** A dedicated progressive web application for personal research and concept exploration.
 - **Link:** [jamesrrs-projects-app.web.app](https://jamesrrs-projects-app.web.app/)
 
 ## Custom GPTs & AI-powered Solutions
@@ -151,7 +152,7 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 ### (#9) Business Rebranding
 
 - **Project Name:** Business
-Rebranding
+  Rebranding
 - **Description:** BusinessRebranding-GPT is a GPT app that helps businesses through the rebranding process by generating ideas ranging from closely related to original identity to innovative concepts. It balances creativity with practicality, ensuring feasible suggestions. Ideal for businesses aiming to refresh their image or pivot strategy, it provides tailored advice for growth and relevance.
 - **Link:** [Busines Rebranding](https://chat.openai.com/g/g-np3Dj7gOE-business-rebranding-tool)
 
@@ -177,8 +178,8 @@ Rebranding
   - Foster a community-oriented platform for creators to give and receive feedback.
   - Simplify the feedback mechanism to encourage participation from non-experts.
 - **Target Market:** Creative individuals, entrepreneurs, and anyone seeking project feedback.
-- **Strengths:** Unique concept, engaging interface, community building, ease of use.
-<!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
+  <!-- - **Strengths:** Unique concept, engaging interface, community building, ease of use. -->
+  <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
 
 ### (Horizon #1) The Archetype Academy Nexus: AI Character Matrix
 
@@ -212,8 +213,8 @@ As we continue to refine and expand our platform, we remain committed to pushing
 ### (Horizon Sub #0) Carl-XII
 
 - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
-- **Target Market:** Tech-savvy small businesses and creative professionals.
-- **Marketing Channels:** Game developers, educators, psychologists, and creative writers.
+  <!-- - **Target Market:** Tech-savvy small businesses and creative professionals. -->
+  <!-- - **Marketing Channels:** Game developers, educators, psychologists, and creative writers. -->
 - **Key Features:**
   - Utilizes data from **ArchetypeAPI**
   - Enriched by personality data from **MindPulse-150**
