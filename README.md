@@ -191,7 +191,7 @@ The Archetype Academy offers a secure and user-friendly environment for managing
 
 As we continue to refine and expand our platform, we remain committed to pushing the boundaries of what's possible in digital education. Join us on this exciting journey and unlock the potential of personalized learning with The Archetype Academy. -->
 
-- **Description:** Create, collect, and learn with AI-powered companions. Discover your archetype, design your character, and embark on a personalized learning journey in our secure, interactive digital world.
+- **Description:** Create, collect, and learn with AI-powered archetype-specific learning companions. Discover your archetype, design your character, and embark on a personalized learning journey in our secure, interactive digital world.
   <!-- - **Target Market:** AR enthusiasts, game developers, storytellers, and educators. -->
 - **Key Features:**
   - Personalization:
