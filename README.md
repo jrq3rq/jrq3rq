@@ -97,7 +97,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 <!-- Welcome to my digital playground where my ideas come to life! My passion lies in pushing the boundaries of technology, whether it's through building innovative applications, crafting AI-powered solutions, or sharing my thoughts on my personal website. -->
 
-Welcome to my digital playground—a hub where innovation meets practicality. My passion for pushing the boundaries of technology manifests in creating cutting-edge applications and AI-powered solutions. Dive into my world of transformative projects and insights.
+Welcome to my digital playground where all my ideas come to life. My passion for pushing the boundaries of technology manifests in creating cutting-edge applications and AI-powered solutions. 
 
 <!-- One of my flagship projects is the Archetype Academy Nexus – a unique educational platform that empowers aspiring AI character alchemists to:
 
@@ -265,6 +265,6 @@ As we continue to refine and expand our platform, we remain committed to pushing
 
 #
 
-Feel free to explore my projects and don't hesitate to reach out if you have any questions, ideas, or collaboration opportunities. Let's push the boundaries of what's possible together!
+Feel free to explore my projects and don't hesitate to reach out if you have any questions, ideas, or collaboration opportunities. 
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/james-rrsantos)
