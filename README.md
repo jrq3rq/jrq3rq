@@ -136,7 +136,7 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 - **Description:** A dedicated progressive web application for personal research and concept exploration.
 - **Link:** [jamesrrs-projects-app.web.app](https://jamesrrs-projects-app.web.app/)
 
-## Custom GPTs & AI-powered Solutions
+<!-- ## Custom GPTs & AI-powered Solutions
 
 > **Note:** This section showcases a range of AI-powered solutions tailored for diverse business needs—from strategic planning and brand management to creative storytelling and project feedback. Each project is designed to leverage advanced AI capabilities to provide targeted, actionable insights and foster growth in its respective field.
 
@@ -163,7 +163,7 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 ### Business Advising
 
 - **Description:** RebelAdvisor-GPT is a critical business advising tool that offers honest, constructive feedback to refine business projects. It helps identify potential shortcomings and provides actionable suggestions for improvement, fostering development and innovation. By encouraging critical assessment, RebelAdvisor-GPT ensures thorough scrutiny of projects for quality outcomes, making it a valuable asset for idea validation, attention generation, and revenue increase.
-- **Link:** [Rebel Advisor GPT](https://chat.openai.com/g/g-KjtcrDj33-rebel-advisor)
+- **Link:** [Rebel Advisor GPT](https://chat.openai.com/g/g-KjtcrDj33-rebel-advisor) -->
 
 ### Project Feedback for Creators & Entrepreneurs
 
