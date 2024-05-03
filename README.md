@@ -109,12 +109,12 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ## Personal Website -->
 
-## Portfolio Website
+<!-- ## Portfolio Website -->
 
 <!-- - **Project Name:** James RRS Personal Website -->
 
-- **Description:** Showcasing my professional work and skills, this portfolio site is developed using Bootstrap, HTML, CSS, and is hosted on AWS.
-- **Link:** [jamesrrs.me](https://jamesrrs.me)
+<!-- - **Description:** Showcasing my professional work and skills, this portfolio site is developed using Bootstrap, HTML, CSS, and is hosted on AWS.
+- **Link:** [jamesrrs.me](https://jamesrrs.me) -->
 
 <!-- ## Progressive Web Applications (PWAs) -->
 
@@ -122,19 +122,20 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 ### Consulting
 
-- **Description:** A React-based consulting Progressive Web App. A creative product development service focusing on AI agents, Python scripts, and progressive web applications. The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI.
-  <!-- - **Marketing Channels:** Digital marketing, industry events, and partnerships with tech incubators. -->
+- **Description:** Product development service focusing on AI agents, automation scripts, and progressive web applications.
+  <!-- - The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI. -->
+- **Marketing Channels:** Digital, industry events, and partnerships with tech incubators.
   <!-- - **Growth Strategy:** Expanding service offerings and exploring B2B collaborations. -->
-- **Link:** [Studiovoice2fly.com](https://studiovoice2fly.com/)
+- **Website:** [Studiovoice2fly.com](https://studiovoice2fly.com/)
 
 <!-- ### (Product as a 'Personal' Service) Research PWA -->
 
-### Research
+<!-- ### Research -->
 
 <!-- - **Project Name:** James RRS -->
 
-- **Description:** A dedicated progressive web application for personal research and concept exploration.
-- **Link:** [jamesrrs-projects-app.web.app](https://jamesrrs-projects-app.web.app/)
+<!-- - **Description:** A dedicated progressive web application for personal research and concept exploration.
+- **Link:** [jamesrrs-projects-app.web.app](https://jamesrrs-projects-app.web.app/) -->
 
 <!-- ## Custom GPTs & AI-powered Solutions
 
@@ -165,18 +166,25 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 - **Description:** RebelAdvisor-GPT is a critical business advising tool that offers honest, constructive feedback to refine business projects. It helps identify potential shortcomings and provides actionable suggestions for improvement, fostering development and innovation. By encouraging critical assessment, RebelAdvisor-GPT ensures thorough scrutiny of projects for quality outcomes, making it a valuable asset for idea validation, attention generation, and revenue increase.
 - **Link:** [Rebel Advisor GPT](https://chat.openai.com/g/g-KjtcrDj33-rebel-advisor) -->
 
-### Project Feedback for Creators & Entrepreneurs
+## Character Development
 
-- **Name:** Judge My Baby
+- **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
+  <!-- - **Target Market:** Tech-savvy small businesses and creative professionals. -->
+  <!-- - **Marketing Channels:** Game developers, educators, psychologists, and creative writers. -->
+- **Key Features:**
+  - Utilizes data from **ArchetypeAPI**
+  - Enriched by personality data from **MindPulse-150**
+  - Combines data from both APIs for holistic character creation
+- **Link:** [Carl-XII](https://carl-xii.web.app/)
 
-- **Description:** An innovative platform revolutionizing project feedback for creators and entrepreneurs. Through interactive 'baby' illustrations, users receive segmented, playful yet meaningful feedback on their projects.
-- **Target Market:** Creative individuals, entrepreneurs, and anyone seeking project feedback.
-- **Key Objectives:**
-  - Transform the portfolio review process into an interactive experience.
-  - Foster a community-oriented platform for creators to give and receive feedback.
-  - Simplify the feedback mechanism to encourage participation from non-experts.
-    <!-- - **Strengths:** Unique concept, engaging interface, community building, ease of use. -->
-    <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
+## Character API
+
+- **Description:** A tool for character development in storytelling, gaming, and psychological analysis, based on Carl Jung's archetypal theory.
+- **Target Market:** Developers, storytellers, and marketing professionals.
+  - Provides foundational data for character development.
+  - Offers Jungian archetype templates.
+  - Integrates with MindPulse-150 for character traits.
+- **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
 
 <!-- Introducing The Archetype Academy, a groundbreaking digital education platform that empowers users to create, collect, and interact with AI-powered companions. Our innovative suite of tools, including a symbolic character design suite, AR Archetype Playground, AI Chatbot Portal, and secure NFT Wallet, provides a seamless and engaging experience for personalized learning.
 
@@ -235,26 +243,6 @@ As we continue to refine and expand our platform, we remain committed to pushing
     - **Feedback-Driven Development:** Establish mechanisms to collect and analyze user feedback continuously. Use this data to refine and expand features.
     - **Feature Expansion:** Regularly introduce new features and updates that enhance educational value and user engagement. Plan for scalable architecture to support a growing user base and more complex features.
 
-## Character Development
-
-- **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis.
-  <!-- - **Target Market:** Tech-savvy small businesses and creative professionals. -->
-  <!-- - **Marketing Channels:** Game developers, educators, psychologists, and creative writers. -->
-- **Key Features:**
-  - Utilizes data from **ArchetypeAPI**
-  - Enriched by personality data from **MindPulse-150**
-  - Combines data from both APIs for holistic character creation
-- **Link:** [Carl-XII](https://carl-xii.web.app/)
-
-## Character Development API
-
-- **Description:** A tool for character development in storytelling, gaming, and psychological analysis, based on Carl Jung's archetypal theory.
-- **Target Market:** Developers, storytellers, and marketing professionals.
-  - Provides foundational data for character development.
-  - Offers Jungian archetype templates.
-  - Integrates with MindPulse-150 for character traits.
-- **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
-
 ## Personality Test
 
 - **Description:** A comprehensive personality assessment tool that combines the Big Five personality traits with 12 Jungian archetypes, designed to explore personality intricacies and match users with their ideal personality companion profiles.
@@ -262,6 +250,19 @@ As we continue to refine and expand our platform, we remain committed to pushing
   - Generates comprehensive personality profiles.
   - Feeds data to Carl-XII for personalized interactions.
 - **Link:** [MindPulse-150](https://mindpulse-150.web.app/)
+
+<!-- ### Project Feedback for Creators & Entrepreneurs
+
+- **Name:** Judge My Baby
+
+- **Description:** An innovative platform revolutionizing project feedback for creators and entrepreneurs. Through interactive 'baby' illustrations, users receive segmented, playful yet meaningful feedback on their projects. -->
+<!-- - **Target Market:** Creative individuals, entrepreneurs, and anyone seeking project feedback. -->
+<!-- - **Key Objectives:** -->
+  <!-- - Transform the portfolio review process into an interactive experience. -->
+  <!-- - Foster a community-oriented platform for creators to give and receive feedback. -->
+  <!-- - Simplify the feedback mechanism to encourage participation from non-experts. -->
+  <!-- - **Strengths:** Unique concept, engaging interface, community building, ease of use. -->
+  <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
 
 #
 
