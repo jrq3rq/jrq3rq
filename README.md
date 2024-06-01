@@ -97,7 +97,7 @@ Dive in and see what I've been cooking up! If you have any questions, ideas, or 
 
 <!-- Welcome to my digital playground where my ideas come to life! My passion lies in pushing the boundaries of technology, whether it's through building innovative applications, crafting AI-powered solutions, or sharing my thoughts on my personal website. -->
 
-Welcome to my digital playground—a hub where innovation meets practicality. My passion for pushing the boundaries of technology manifests in creating cutting-edge applications and AI-powered solutions. Dive into my world of transformative projects and insights.
+<!-- Welcome to my digital playground—a hub where innovation meets practicality. My passion for pushing the boundaries of technology manifests in creating cutting-edge applications and AI-powered solutions. Dive into my world of transformative projects and insights. -->
 
 <!-- One of my flagship projects is the Archetype Academy Nexus – a unique educational platform that empowers aspiring AI character alchemists to:
 
@@ -120,13 +120,13 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ### (Products as a Service) Consulting PWA -->
 
-### Consulting
+<!-- ### Consulting -->
 
-- **Description:** Product development service focusing on AI agents, automation scripts, and progressive web applications.
+<!-- - **Description:** Product development service focusing on AI agents, automation scripts, and progressive web applications. -->
   <!-- - The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI. -->
-- **Marketing Channels:** Digital, industry events, and partnerships with tech incubators.
+<!-- - **Marketing Channels:** Digital, industry events, and partnerships with tech incubators. -->
   <!-- - **Growth Strategy:** Expanding service offerings and exploring B2B collaborations. -->
-- **Website:** [Studiovoice2fly.com](https://studiovoice2fly.com/)
+<!-- - **Website:** [Studiovoice2fly.com](https://studiovoice2fly.com/) -->
 
 <!-- ### (Product as a 'Personal' Service) Research PWA -->
 
