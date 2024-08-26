@@ -175,7 +175,6 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
   - Utilizes data from **ArchetypeAPI**
   - Enriched by personality data from **MindPulse-150**
   - Combines data from both APIs for holistic character creation
-- **Link:** [Carl-XII](https://carl-xii.web.app/)
 
 ## Character API
 
@@ -188,6 +187,7 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 
 <!-- 
+- **Link:** [Carl-XII](https://carl-xii.web.app/)
 - **Link:** [ArchetypeAPI](https://github.com/jrq3rq/ArchetypeAPI)
 Introducing The Archetype Academy, a groundbreaking digital education platform that empowers users to create, collect, and interact with AI-powered companions. Our innovative suite of tools, including a symbolic character design suite, AR Archetype Playground, AI Chatbot Portal, and secure NFT Wallet, provides a seamless and engaging experience for personalized learning.
 
