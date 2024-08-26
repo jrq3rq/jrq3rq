@@ -184,11 +184,12 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
   - Provides foundational data for character development.
   - Offers Jungian archetype templates.
   - Integrates with MindPulse-150 for character traits.
+
+
+
+<!-- 
 - **Link:** [ArchetypeAPI](https://github.com/jrq3rq/ArchetypeAPI)
-
-
-
-<!-- Introducing The Archetype Academy, a groundbreaking digital education platform that empowers users to create, collect, and interact with AI-powered companions. Our innovative suite of tools, including a symbolic character design suite, AR Archetype Playground, AI Chatbot Portal, and secure NFT Wallet, provides a seamless and engaging experience for personalized learning.
+Introducing The Archetype Academy, a groundbreaking digital education platform that empowers users to create, collect, and interact with AI-powered companions. Our innovative suite of tools, including a symbolic character design suite, AR Archetype Playground, AI Chatbot Portal, and secure NFT Wallet, provides a seamless and engaging experience for personalized learning.
 
 Through our proprietary MindPulse personality test, users are matched with unique archetypes that serve as the foundation for their AI companions. These intelligent characters, built using advanced AI technology and customizable via our intuitive design suite, become powerful tools for self-discovery and growth.
 
@@ -253,9 +254,11 @@ As we continue to refine and expand our platform, we remain committed to pushing
   - Conducts in-depth personality assessments.
   - Generates comprehensive personality profiles.
   - Feeds data to Carl-XII for personalized interactions.
+
+<!-- 
 - **Link:** [MindPulse-150](https://mindpulse-150.web.app/)
 
-<!-- ### Project Feedback for Creators & Entrepreneurs
+### Project Feedback for Creators & Entrepreneurs
 
 - **Name:** Judge My Baby
 
