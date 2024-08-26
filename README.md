@@ -184,7 +184,9 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
   - Provides foundational data for character development.
   - Offers Jungian archetype templates.
   - Integrates with MindPulse-150 for character traits.
-- **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes)
+- **Link:** [ArchetypeAPI](https://github.com/jrq3rq/ArchetypeAPI)
+
+
 
 <!-- Introducing The Archetype Academy, a groundbreaking digital education platform that empowers users to create, collect, and interact with AI-powered companions. Our innovative suite of tools, including a symbolic character design suite, AR Archetype Playground, AI Chatbot Portal, and secure NFT Wallet, provides a seamless and engaging experience for personalized learning.
 
