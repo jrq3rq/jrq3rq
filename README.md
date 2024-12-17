@@ -168,11 +168,9 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ## Character Development -->
 
-<<<<<<< HEAD
 
-- # **Description:** A prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, applicable in storytelling, gaming, and psychological analysis.
+- **Description:** A prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, applicable in storytelling, gaming, and psychological analysis.
   <!-- - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis. -->
-  > > > > > > > 80d6ad2 (update)
     <!-- - **Target Market:** Tech-savvy small businesses and creative professionals. -->
     <!-- - **Marketing Channels:** Game developers, educators, psychologists, and creative writers. -->
   <!-- - **Key Features:**
@@ -266,8 +264,6 @@ As we continue to refine and expand our platform, we remain committed to pushing
 - **Link:** [MindPulse-150](https://mindpulse-150.web.app/)
 =======
 - **Link:** [MindPulse-150](https://mindpulse-150.web.app/) -->
-
-> > > > > > > 80d6ad2 (update)
 
 ### Project Feedback for Creators & Entrepreneurs
 
