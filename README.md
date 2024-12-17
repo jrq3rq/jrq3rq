@@ -185,10 +185,10 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
   - Provides foundational data for character development.
   - Offers Jungian archetype templates.
   - Integrates with MindPulse-150 for character traits.
-    <<<<<<< HEAD
-    =======
+
+
 - **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes) -->
-  > > > > > > > 80d6ad2 (update)
+
 
 <!--
 - **Link:** [Carl-XII](https://carl-xii.web.app/)
