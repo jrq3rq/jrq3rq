@@ -122,10 +122,6 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ### Consulting -->
 
-<!-- - **Description:** Product development service focusing on AI agents, automation scripts, and progressive web applications. -->
-  <!-- - The studio is involved in innovative tech solutions like RecapAI and MemoryPal, along with AI-powered projects like Carl-XII and ArchetypeAPI. -->
-<!-- - **Marketing Channels:** Digital, industry events, and partnerships with tech incubators. -->
-  <!-- - **Growth Strategy:** Expanding service offerings and exploring B2B collaborations. -->
 <!-- - **Website:** [Studiovoice2fly.com](https://studiovoice2fly.com/) -->
 
 <!-- ### (Product as a 'Personal' Service) Research PWA -->
@@ -168,27 +164,16 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 
 <!-- ## Character Development -->
 
-
-- **Description:** A prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, applicable in storytelling, gaming, and psychological analysis.
-  <!-- - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis. -->
-    <!-- - **Target Market:** Tech-savvy small businesses and creative professionals. -->
-    <!-- - **Marketing Channels:** Game developers, educators, psychologists, and creative writers. -->
-  <!-- - **Key Features:**
-    - Utilizes data from **ArchetypeAPI**
-    - Enriched by personality data from **MindPulse-150**
-    - Combines data from both APIs for holistic character creation
-
-## Character API
+<!-- ## Character API
 
 - **Description:** A tool for character development in storytelling, gaming, and psychological analysis, based on Carl Jung's archetypal theory.
 - **Target Market:** Developers, storytellers, and marketing professionals.
+
   - Provides foundational data for character development.
   - Offers Jungian archetype templates.
   - Integrates with MindPulse-150 for character traits.
 
-
 - **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes) -->
-
 
 <!--
 - **Link:** [Carl-XII](https://carl-xii.web.app/)
@@ -265,18 +250,12 @@ As we continue to refine and expand our platform, we remain committed to pushing
 =======
 - **Link:** [MindPulse-150](https://mindpulse-150.web.app/) -->
 
-### Project Feedback for Creators & Entrepreneurs
+<!-- ### Project Feedback for Creators & Entrepreneurs -->
 
-- **Name:** Judge My Baby
+<!-- - **Name:** Judge My Baby -->
 
-- **Description:** An innovative platform revolutionizing project feedback for creators and entrepreneurs. Through interactive 'baby' illustrations, users receive segmented, playful yet meaningful feedback on their projects. -->
   <!-- - **Target Market:** Creative individuals, entrepreneurs, and anyone seeking project feedback. -->
   <!-- - **Key Objectives:** -->
-    <!-- - Transform the portfolio review process into an interactive experience. -->
-    <!-- - Foster a community-oriented platform for creators to give and receive feedback. -->
-    <!-- - Simplify the feedback mechanism to encourage participation from non-experts. -->
-    <!-- - **Strengths:** Unique concept, engaging interface, community building, ease of use. -->
-    <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
 
 <!-- #
 
