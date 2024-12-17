@@ -169,16 +169,16 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 <!-- ## Character Development -->
 
 <<<<<<< HEAD
-- **Description:** A prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, applicable in storytelling, gaming, and psychological analysis.
-=======
-<!-- - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis. -->
->>>>>>> 80d6ad2 (update)
-  <!-- - **Target Market:** Tech-savvy small businesses and creative professionals. -->
-  <!-- - **Marketing Channels:** Game developers, educators, psychologists, and creative writers. -->
-<!-- - **Key Features:**
-  - Utilizes data from **ArchetypeAPI**
-  - Enriched by personality data from **MindPulse-150**
-  - Combines data from both APIs for holistic character creation
+
+- # **Description:** A prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, applicable in storytelling, gaming, and psychological analysis.
+  <!-- - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis. -->
+  > > > > > > > 80d6ad2 (update)
+    <!-- - **Target Market:** Tech-savvy small businesses and creative professionals. -->
+    <!-- - **Marketing Channels:** Game developers, educators, psychologists, and creative writers. -->
+  <!-- - **Key Features:**
+    - Utilizes data from **ArchetypeAPI**
+    - Enriched by personality data from **MindPulse-150**
+    - Combines data from both APIs for holistic character creation
 
 ## Character API
 
@@ -187,14 +187,12 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
   - Provides foundational data for character development.
   - Offers Jungian archetype templates.
   - Integrates with MindPulse-150 for character traits.
-<<<<<<< HEAD
-=======
+    <<<<<<< HEAD
+    =======
 - **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes) -->
->>>>>>> 80d6ad2 (update)
+  > > > > > > > 80d6ad2 (update)
 
-
-
-<!-- 
+<!--
 - **Link:** [Carl-XII](https://carl-xii.web.app/)
 - **Link:** [ArchetypeAPI](https://github.com/jrq3rq/ArchetypeAPI)
 Introducing The Archetype Academy, a groundbreaking digital education platform that empowers users to create, collect, and interact with AI-powered companions. Our innovative suite of tools, including a symbolic character design suite, AR Archetype Playground, AI Chatbot Portal, and secure NFT Wallet, provides a seamless and engaging experience for personalized learning.
@@ -264,24 +262,25 @@ As we continue to refine and expand our platform, we remain committed to pushing
   - Feeds data to Carl-XII for personalized interactions.
 <<<<<<< HEAD
 
-<!-- 
+<!--
 - **Link:** [MindPulse-150](https://mindpulse-150.web.app/)
 =======
 - **Link:** [MindPulse-150](https://mindpulse-150.web.app/) -->
->>>>>>> 80d6ad2 (update)
+
+> > > > > > > 80d6ad2 (update)
 
 ### Project Feedback for Creators & Entrepreneurs
 
 - **Name:** Judge My Baby
 
 - **Description:** An innovative platform revolutionizing project feedback for creators and entrepreneurs. Through interactive 'baby' illustrations, users receive segmented, playful yet meaningful feedback on their projects. -->
-<!-- - **Target Market:** Creative individuals, entrepreneurs, and anyone seeking project feedback. -->
-<!-- - **Key Objectives:** -->
-  <!-- - Transform the portfolio review process into an interactive experience. -->
-  <!-- - Foster a community-oriented platform for creators to give and receive feedback. -->
-  <!-- - Simplify the feedback mechanism to encourage participation from non-experts. -->
-  <!-- - **Strengths:** Unique concept, engaging interface, community building, ease of use. -->
-  <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
+  <!-- - **Target Market:** Creative individuals, entrepreneurs, and anyone seeking project feedback. -->
+  <!-- - **Key Objectives:** -->
+    <!-- - Transform the portfolio review process into an interactive experience. -->
+    <!-- - Foster a community-oriented platform for creators to give and receive feedback. -->
+    <!-- - Simplify the feedback mechanism to encourage participation from non-experts. -->
+    <!-- - **Strengths:** Unique concept, engaging interface, community building, ease of use. -->
+    <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
 
 <!-- #
 
