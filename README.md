@@ -166,12 +166,16 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
 - **Description:** RebelAdvisor-GPT is a critical business advising tool that offers honest, constructive feedback to refine business projects. It helps identify potential shortcomings and provides actionable suggestions for improvement, fostering development and innovation. By encouraging critical assessment, RebelAdvisor-GPT ensures thorough scrutiny of projects for quality outcomes, making it a valuable asset for idea validation, attention generation, and revenue increase.
 - **Link:** [Rebel Advisor GPT](https://chat.openai.com/g/g-KjtcrDj33-rebel-advisor) -->
 
-## Character Development
+<!-- ## Character Development -->
 
+<<<<<<< HEAD
 - **Description:** A prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, applicable in storytelling, gaming, and psychological analysis.
+=======
+<!-- - **Description:** An innovative prototype integrating ArchetypeAPI and MindPulse-150 data for character development and interaction, especially useful in storytelling, gaming, and psychological analysis. -->
+>>>>>>> 80d6ad2 (update)
   <!-- - **Target Market:** Tech-savvy small businesses and creative professionals. -->
   <!-- - **Marketing Channels:** Game developers, educators, psychologists, and creative writers. -->
-- **Key Features:**
+<!-- - **Key Features:**
   - Utilizes data from **ArchetypeAPI**
   - Enriched by personality data from **MindPulse-150**
   - Combines data from both APIs for holistic character creation
@@ -183,6 +187,10 @@ Through the Nexus, I aim to provide not just a project, but an immersive learnin
   - Provides foundational data for character development.
   - Offers Jungian archetype templates.
   - Integrates with MindPulse-150 for character traits.
+<<<<<<< HEAD
+=======
+- **Link:** [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes) -->
+>>>>>>> 80d6ad2 (update)
 
 
 
@@ -216,7 +224,7 @@ As we continue to refine and expand our platform, we remain committed to pushing
   - Continuous Improvement:
     - Continuous refinement and expansion of features -->
 
-## The Archetype Academy Nexus: AI Character Matrix
+<!-- ## The Archetype Academy Nexus: AI Character Matrix
 
 - **Description:** 'The Archetype Academy Nexus' is a platform leveraging AI to create archetype-specific learning companions. Users can discover their unique archetype, design their character, and engage with tailored learning experiences in a secure, user-friendly digital environment.
 
@@ -254,9 +262,13 @@ As we continue to refine and expand our platform, we remain committed to pushing
   - Conducts in-depth personality assessments.
   - Generates comprehensive personality profiles.
   - Feeds data to Carl-XII for personalized interactions.
+<<<<<<< HEAD
 
 <!-- 
 - **Link:** [MindPulse-150](https://mindpulse-150.web.app/)
+=======
+- **Link:** [MindPulse-150](https://mindpulse-150.web.app/) -->
+>>>>>>> 80d6ad2 (update)
 
 ### Project Feedback for Creators & Entrepreneurs
 
@@ -271,8 +283,69 @@ As we continue to refine and expand our platform, we remain committed to pushing
   <!-- - **Strengths:** Unique concept, engaging interface, community building, ease of use. -->
   <!-- - **Link:** [Judge My Baby](https://github.com/jrq3rq/judge-my-baby) -->
 
-#
+<!-- #
 
 Feel free to explore these projects and reach out with any questions, ideas, or collaboration opportunities.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/james-rrsantos)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/james-rrsantos) -->
+
+<!-- # **StudioVoice2fly.com** -->
+
+Welcome to my digital workshop—an experimental space where technology meets creativity. I focus on building AI-powered tools, storytelling frameworks, and adaptive learning platforms that help businesses and creators push boundaries.
+
+_Where AI innovation, storytelling, and symbolic design converge._
+
+---
+
+## 🚀 **Key Projects**
+
+### [Archetype Academy Nexus](https://github.com/jrq3rq/archetype-academy-nexus)
+
+**An AI-powered platform for personalized learning and symbolic storytelling.**
+
+- **MindPulse-150 Personality Test**: Combines Big Five personality traits with 12 Jungian archetypes.
+- **Character Design Tools**: Tailored frameworks to create and customize archetypal AI companions.
+- **Adaptive Learning Modules**: Personalized educational experiences that evolve based on user interaction.
+
+---
+
+### [ArchetypeAPI](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes/creator)
+
+**A versatile API delivering foundational archetype data for storytelling, branding, and product development.**
+
+- **Jungian Templates**: Ready-to-use archetype models for character development.
+- **Personality Integration**: Links with tools like MindPulse-150 for enhanced customization.
+- **Flexible Use Cases**: Designed for games, education, AI development, and brand storytelling.
+
+---
+
+### [MindPulse-150](https://mindpulse-150.web.app/)
+
+**A comprehensive personality assessment tool for exploring user archetypes.**
+
+- **Big Five + Archetypes**: Combines personality traits with symbolic archetypes for deeper analysis.
+- **Customizable Data**: Feeds into tools like Carl-XII and ArchetypeAPI for tailored experiences.
+- **Holistic Profiles**: Generates insights for personal growth, AI interactions, or storytelling.
+
+---
+
+## 🛠️ **What I Build**
+
+At **StudioVoice2FLY**, I focus on:
+
+- **Creative AI Solutions**: Tools for branding, storytelling, and symbolic design.
+- **Interactive Chatbots**: Archetype-driven AI companions for personalized interactions.
+- **Symbolic Storytelling**: Frameworks for character development in games, education, and marketing.
+- **Adaptive Learning Platforms**: AI-powered tools that personalize learning experiences in real time.
+
+---
+
+## 🌐 **Explore & Connect**
+
+- **Website**: [jamesrrs.me](https://jamesrrs.me)
+- **LinkedIn**: [James RRSantos](https://www.linkedin.com/in/james-rrsantos)
+- **Featured Project**: [Archetype Academy Nexus](https://github.com/jrq3rq/archetype-academy-nexus)
+
+---
+
+_I’m constantly building, experimenting, and iterating—explore my work, share ideas, or connect for collaboration._
