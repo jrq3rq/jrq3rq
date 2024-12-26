@@ -318,7 +318,7 @@ At **StudioVoice2FLY**, I focus on:
 
 - **Website**: [jamesrrs.me](https://jamesrrs.me)
 - **LinkedIn**: [James RRSantos](https://www.linkedin.com/in/james-rrsantos)
-- **Featured Project**: [Archetype Academy Nexus](https://github.com/jrq3rq/archetype-academy-nexus)
+- **Featured**: [Archetype Academy Nexus](https://github.com/jrq3rq/archetype-academy-nexus)
 
 ---
 
