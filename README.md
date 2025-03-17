@@ -267,7 +267,7 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 # Welcome to My Chaos Lab
 
-This is my digital sandbox—a raw mashup of tech, creativity, and unfiltered rebellion. I’m James, alias **The Idea Alchemist** (self-appointed and damn proud), an **Independent AI Agent Researcher** who dreams in code, 3D prints wild ideas, and swings emojis like a samurai. I build AI-powered tools, storytelling frameworks, and adaptive platforms that don’t just push boundaries—they set the rulebook on fire and vibe in the ashes.
+This is my digital sandbox—a raw mashup of tech, creativity, and unfiltered rebellion. I’m James, alias **The Idea Alchemist** (self-appointed and proud), an **Independent AI Agent Researcher** who dreams in code, 3D prints wild ideas, and swings emojis like a samurai. I build AI-powered tools, storytelling frameworks, and adaptive platforms that don’t just push boundaries—they set the rulebook on fire and vibe in the ashes.
 
 _Where AI innovation, symbolic design, and visionary chaos ignite._
 
