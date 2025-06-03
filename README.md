@@ -336,18 +336,4 @@ _The Thread:_ I’m an **Aspiring 3D Printing Nerd** fusing tech with tangible c
 
 ---
 
-## 💥 Who I Am
-
-- **Core Vibe**: Assertive Introverted iNtuitive Thinker Judger Collector—drawn to helping others, fueled by success, repelled by spotlight. I’m a paradox: sharp but self-sabotaging, ambitious yet anti-hype.
-- **Superpower**: Imagination off the rails—I dream up AI museum exhibits with holographic artifacts and curators roasting you for not knowing your shit.
-- **Kryptonite**: Procrastination’s my sidekick, whispering “vibes over grind” while I dodge self-promotion like it’s a trap.
-- **Quirks**: I turn posts into cryptic emoji haikus and laugh at life’s absurdity—chaos is my clock.
-- **Backstory**: Crash-landed from VR fantasies and tech blogs, I’m here to flip culture on its head. Museums? I see AR playgrounds where history smacks you awake—not dusty relics.
-- **The Fight**: I’m at war with the algorithm’s sellout vibes. My ideas scream; I don’t grovel for attention.
-- **The Dream**: Revolutionize the past—holograms, AI, and a middle finger to “polished.”
-
-_Current Arc:_ Hyping tools like Grok 3, clowning corporate LLM limits, and plotting a museum-revolution bomb—too busy laughing at my own mess to care if it lands. Will I tame the wildfire or let it rage? Stick around.
-
----
-
 _I’m a tech whisperer, a visionary lost in chaos, and a rebel who’d rather burn out than sell out. Explore my work, throw me your wildest ideas, or jump in—let’s build something epic._
