@@ -267,7 +267,11 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 # Welcome to My Chaos Lab
 
-This is my digital sandbox—a raw mashup of tech, creativity, and unfiltered rebellion. I’m James, alias **The Idea Alchemist** (self-appointed and proud), an **Independent AI Agent Researcher** who dreams in code, 3D prints wild ideas, and swings emojis like a samurai. I build AI-powered tools, storytelling frameworks, and adaptive platforms that don’t just push boundaries—they set the rulebook on fire and vibe in the ashes.
+This is my digital sandbox—a raw fusion of tech, creativity, and unfiltered rebellion.
+
+I’m James, aka **The Idea Alchemist** (self-appointed and proud)—an **Independent AI Agent Researcher** who dreams in code, 3D prints wild ideas, and wields emojis like a samurai.
+
+I build AI-powered tools, storytelling frameworks, and adaptive platforms that don’t just push boundaries—they set the rulebook on fire and vibe in the ashes.
 
 _Where AI innovation, symbolic design, and visionary chaos ignite._
 
@@ -319,12 +323,12 @@ _Why?_ I’m building the backbone for The Archetype Academy’s exhibit vision�
 
 At **StudioVoice2FLY**, I’m a **Creative Disruptor** and **Exhibition Visionary**, fusing tech, freedom, and chaos into functional art:
 
-- **Creative AI Solutions**: Branding, symbolism, and storytelling with a rebellious edge.  
-- **Archetype Chatbots**: AI that *vibes*—built to connect, not just compute.  
-- **Symbolic Storytelling Systems**: Character frameworks that haunt games, classrooms, and campaigns.  
+- **Creative AI Solutions**: Branding, symbolism, and storytelling with a rebellious edge.
+- **Archetype Chatbots**: AI that *vibes*—built to connect, not just compute.
+- **Symbolic Storytelling Systems**: Character frameworks that haunt games, classrooms, and campaigns.
 - **Adaptive Learning Platforms**: Real-time personalization—because static is dead.
 
-**The Thread:**  
+**The Thread:**
 I’m an **aspiring 3D printing nerd**, a **1st & 2nd Amendment absolutist**, and a chaos-fueled builder chasing wild ideas—tripping over my shoelaces, but still sprinting forward.
 
 ---
