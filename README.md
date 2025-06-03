@@ -305,7 +305,15 @@ _Why?_ Creators should wield archetypes like blades, not decor.
 
 _Why?_ I’m a collector of human complexity—this is my lab for cracking it open.
 
----
+### [ArcheOS](https://github.com/jrq3rq/archeos)
+
+**An AI manager plotting The Archetype Academy’s exhibit ops with ruthless precision.**
+
+- **Modular Agents**: Planners, marketers, optimizers—each a cog in your exhibit blueprint.
+- **Dynamic Onboarding**: Configures your ops setup faster than a curator’s coffee break.
+- **Scalable Foundation**: Grows from solo exhibits to epic showcases, no sweat.
+
+_Why?_ I’m building the backbone for The Archetype Academy’s exhibit vision—starting raw.
 
 ## 🛠️ What I Build
 
