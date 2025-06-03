@@ -317,14 +317,15 @@ _Why?_ I’m building the backbone for The Archetype Academy’s exhibit vision�
 
 ## 🛠️ What I Build
 
-At **StudioVoice2FLY**, I’m a **Creative Disruptor**, **Museum Visionary**, and part-time **Meme Philosopher**:
+At **StudioVoice2FLY**, I’m a **Creative Disruptor** and **Exhibition Visionary**, fusing tech, freedom, and chaos into functional art:
 
-- **Creative AI Solutions**: Branding, storytelling, and symbolic design with a renegade edge.
-- **Interactive Chatbots**: Archetype-driven AIs that vibe with you, not just talk at you.
-- **Symbolic Storytelling**: Frameworks for characters that haunt games, classrooms, and campaigns.
-- **Adaptive Learning Platforms**: Real-time personalization—static’s for suckers.
+- **Creative AI Solutions**: Branding, symbolism, and storytelling with a rebellious edge.  
+- **Archetype Chatbots**: AI that *vibes*—built to connect, not just compute.  
+- **Symbolic Storytelling Systems**: Character frameworks that haunt games, classrooms, and campaigns.  
+- **Adaptive Learning Platforms**: Real-time personalization—because static is dead.
 
-_The Thread:_ I’m an **Aspiring 3D Printing Nerd** fusing tech with tangible chaos, a **1st & 2nd Amendment Absolutist** who lives for freedom, and a tornado of restless energy chasing wild ideas—tripping over my shoelaces half the time.
+**The Thread:**  
+I’m an **aspiring 3D printing nerd**, a **1st & 2nd Amendment absolutist**, and a chaos-fueled builder chasing wild ideas—tripping over my shoelaces, but still sprinting forward.
 
 ---
 
