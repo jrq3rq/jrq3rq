@@ -265,7 +265,7 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 <!-- # **StudioVoice2fly.com** -->
 
-# Welcome to My Chaos Lab
+# Welcome
 
 This is my digital sandbox—a raw fusion of tech, creativity, and unfiltered rebellion.
 
