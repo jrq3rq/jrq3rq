@@ -319,6 +319,16 @@ _Why?_ I’m a collector of human complexity—this is my lab for cracking it op
 
 _Why?_ I’m building the backbone for The Archetype Academy’s exhibit vision—starting raw.
 
+### [Spectrum’s Guide](https://spectrumguide-a4890.web.app/) *(private MVP)*
+
+**An AI-powered autism support tool built for caregivers, not clinicians.**
+
+- **Personalized Care Plans**: Tailored, non-clinical strategies for daily life stressors.
+- **Sound-Enhanced PECS Boards**: Visuals with frequency cues to support communication.
+- **Offline-First Storage**: Keeps control local—privacy isn’t optional.
+
+_Why?_ My sister’s experience as a caregiver made one thing clear: the tools suck. So I built one that doesn’t.
+
 ## 🛠️ What I Build
 
 At **StudioVoice2FLY**, I’m a **Creative Disruptor** and **Exhibition Visionary**, fusing tech, freedom, and chaos into functional art:
@@ -328,8 +338,8 @@ At **StudioVoice2FLY**, I’m a **Creative Disruptor** and **Exhibition Visionar
 - **Symbolic Storytelling Systems**: Character frameworks that haunt games, classrooms, and campaigns.
 - **Adaptive Learning Platforms**: Real-time personalization—because static is dead.
 
-**The Thread:**
-I’m an **aspiring 3D printing nerd**, a **1st & 2nd Amendment absolutist**, and a chaos-fueled builder chasing wild ideas—tripping over my shoelaces, but still sprinting forward.
+<!-- **The Thread:**
+I’m an **aspiring 3D printing nerd**, a **1st & 2nd Amendment absolutist**, and a chaos-fueled builder chasing wild ideas—tripping over my shoelaces, but still sprinting forward. -->
 
 ---
 
