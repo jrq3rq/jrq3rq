@@ -347,7 +347,7 @@ I’m an **aspiring 3D printing nerd**, a **1st & 2nd Amendment absolutist**, an
 
 - **Website**: [jamesrrs.me](https://jamesrrs.me)
 - **LinkedIn**: [James RRSantos](https://www.linkedin.com/in/james-rrsantos)
-- **Featured**: [Archetype Academy Nexus](https://github.com/jrq3rq/archetype-academy-nexus)
+<!-- - **Featured**: [Archetype Academy Nexus](https://github.com/jrq3rq/archetype-academy-nexus) -->
 
 ---
 
