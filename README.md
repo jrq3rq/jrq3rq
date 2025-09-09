@@ -279,6 +279,17 @@ _Where AI innovation, symbolic design, and visionary chaos ignite._
 
 ## 🚀 Key Projects
 
+### [Homeschool Guide](https://homeschoolguide.ai/) *(public MVP)*
+
+**An AI-powered homeschooling tool built for families, not institutions.**
+
+- **Personalized Lesson Plans**: Custom learning paths tailored to each child’s needs and style.
+- **AI-Enhanced PECS & Social Stories**: Communication and behavioral tools designed for neurodivergent learners.
+- **Offline-First Privacy**: Data stays with families—control and trust come first.
+
+_Why?_ Watching my sister homeschool while caring for a neurodivergent child made one thing clear: the tools aren’t built for families. So I built one that is.
+
+
 ### [Archetype Academy Nexus](https://github.com/jrq3rq/archetype-academy-nexus)
 
 **An AI-driven playground for personalized learning and archetypal storytelling.**
@@ -318,16 +329,6 @@ _Why?_ I’m a collector of human complexity—this is my lab for cracking it op
 - **Scalable Foundation**: Grows from solo exhibits to epic showcases, no sweat.
 
 _Why?_ I’m building the backbone for The Archetype Academy’s exhibit vision—starting raw.
-
-### [Spectrum’s Guide](https://spectrumguide-a4890.web.app/) *(private MVP)*
-
-**An AI-powered autism support tool built for caregivers, not clinicians.**
-
-- **Personalized Care Plans**: Tailored, non-clinical strategies for daily life stressors.
-- **Sound-Enhanced PECS Boards**: Visuals with frequency cues to support communication.
-- **Offline-First Storage**: Keeps control local—privacy isn’t optional.
-
-_Why?_ My sister’s experience as a caregiver made one thing clear: the tools suck. So I built one that doesn’t.
 
 ## 🛠️ What I Build
 
