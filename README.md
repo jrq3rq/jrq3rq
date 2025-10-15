@@ -376,6 +376,6 @@ At ***[StudioVoice2FLY.com](https://studiovoice2fly.com/)***, I craft **AI-power
 
 ### License
 
-All projects © 2025 James RRSantos. See individual repositories for licensing details.
+All projects © 2025 James RRS. See individual repositories for licensing details.
 
 ---
