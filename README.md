@@ -277,7 +277,7 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 ## 🚀 Featured Projects
 
-### 🏠 Homeschool Guide *[Live](https://homeschoolguide.ai/)*
+### 🏠 HomeschoolGuide.AI *[Live](https://homeschoolguide.ai/)*
 
 **AI-powered homeschooling platform built for families, not institutions.**
 
