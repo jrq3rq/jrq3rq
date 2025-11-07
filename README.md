@@ -289,6 +289,22 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 ---
 
+### ⚙️ form-rag-js · [Live on npm](https://www.npmjs.com/package/form-rag-js)
+
+**One AI form. Any small business. Powered by Grok.**
+
+- **Seamless Setup**: `npm install form-rag-js` — import, plug, and play.
+- **Instant Context Retrieval**: Structured Form-RAG templates replace manual prompt writing.
+- **Full AI Chat**: Continue the conversation after form submission.
+- **Message Export**: Download single messages or entire chats as `.txt`.
+- **7 Pre-Built SMB Templates**: Landscaper, Cleaning, Handyman, Automotive, Author, Artist, Real Estate — all ready to deploy.
+- **Responsive UI**: Full-width input, side-by-side controls, mobile optimized.
+- **Minimal Input, Maximum Output**: 2–4 fields; Grok generates quotes, schedules, and upsells automatically.
+
+*Why It Matters*: It eliminates prompt engineering entirely—one reusable AI form handles client quotes, bookings, and follow-ups for any small business.
+
+---
+
 ### 🎭 Archetype Academy Nexus *[In Development](https://github.com/jrq3rq/archetype-academy-nexus)*
 
 **AI-driven platform for personalized learning and archetypal storytelling.**
@@ -300,7 +316,7 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 *Why It Matters*: I build tools that embrace human complexity, not simplify it.
 
 ---
-
+<!--
 ### 🔧 ArchetypeAPI *[Production Ready](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes/creator)*
 
 **API delivering Jungian archetype data for creators and developers.**
@@ -311,7 +327,7 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 *Why It Matters*: Creators deserve archetype-driven tools for impactful storytelling.
 
----
+--- -->
 
 ### 🧩 MindPulse-150 *[Live](https://mindpulse-150.web.app/)*
 
@@ -376,6 +392,6 @@ At ***[StudioVoice2FLY.com](https://studiovoice2fly.com/)***, I craft **AI-power
 
 ### License
 
-All projects © 2025 James RRS. See individual repositories for licensing details.
+All projects © 2025 James R. See individual repositories for licensing details.
 
 ---
