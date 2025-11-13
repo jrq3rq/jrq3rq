@@ -269,7 +269,8 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 # Welcome to My Digital Sandbox
 
-**I'm James, The Idea Alchemist**—an independent AI researcher exploring how technology, psychology, and creativity converge to shape new possibilities.
+**I’m James — The Idea Alchemist.**
+Independent AI researcher and builder working where **technology, psychology, and creativity** intersect to create practical, human-centered tools.
 
 *Where innovation meets meaning, and ideas learn to think for themselves.*
 
