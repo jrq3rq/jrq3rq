@@ -292,15 +292,23 @@ Independent AI researcher and builder working where **technology, psychology, an
 
 ## Featured Projects
 
-### HomeschoolGuide.AI *[Live](https://homeschoolguide.ai/)*
+<p align="start">
+  <a href="https://homeschoolguide.ai/signin">
+    <img src="https://img.shields.io/badge/HomeschoolGuide.ai%20–%20Startup-02c7eb?style=for-the-badge&logoColor=white" alt="HomeschoolGuide.ai Startup">
+  </a>
+</p>
 
-**AI-powered homeschooling platform built for families, not institutions.**
 
-- **Personalized Learning Paths**: Custom lesson plans tailored to each child’s style.
-- **Neurodivergent Support**: AI-enhanced PECS and social stories for inclusive learning.
-- **Privacy-First Design**: Offline-first to keep family data secure.
 
-*Why It Matters*: Inspired by my sister’s homeschooling journey with a neurodivergent child, this tool empowers families with tailored solutions.
+**Decision-support infrastructure built for homeschooling families, not institutions.**
+
+* **Structured Weekly Planning**: AI-assisted plans that reduce overwhelm and adapt to real-life constraints.
+* **Neurodivergent-Aware Design**: Flexible pacing, visual supports, and tools built with ADHD and autism-informed needs in mind.
+* **Longitudinal Clarity**: Decision history and pattern tracking to help families learn what works and avoid repeated stress.
+* **Privacy-First Architecture**: Designed to protect sensitive family data.
+
+*Why It Matters*: Inspired by my sister’s journey supporting a neurodivergent learner at home, HomeschoolGuide exists to reduce cognitive load and help parents make calm, confident decisions over time.*
+
 
 ---
 
