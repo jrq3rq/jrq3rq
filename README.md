@@ -1,5 +1,7 @@
 <!-- ## Carl-XII
 
+
+
 [![Archetype Academy Nexus](https://img.shields.io/badge/-Archetype%20Academy%20Nexus-green?style=for-the-badge)](https://github.com/jrq3rq/archetype-academy-nexus)
 
 ```css
@@ -267,6 +269,18 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 
 
+
+<p align="center">
+  <a href="https://studiovoice2fly.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="https://x.com/intent/follow?screen_name=jrq3rq&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/james-rrsantos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jamesrrs.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/jrq3rq" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<!-- *Let’s ignite creativity. DM me or join my newsletter for project updates.* -->
+
+
 # Welcome to My Digital Sandbox
 
 **I’m James — The Idea Alchemist.**
@@ -276,9 +290,9 @@ Independent AI researcher and builder working where **technology, psychology, an
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏠 HomeschoolGuide.AI *[Live](https://homeschoolguide.ai/)*
+### HomeschoolGuide.AI *[Live](https://homeschoolguide.ai/)*
 
 **AI-powered homeschooling platform built for families, not institutions.**
 
@@ -290,7 +304,7 @@ Independent AI researcher and builder working where **technology, psychology, an
 
 ---
 
-### ⚙️ form-rag-js · [Live on npm](https://www.npmjs.com/package/form-rag-js)
+### form-rag-js · [Live on npm](https://www.npmjs.com/package/form-rag-js)
 
 **One AI form. Any small business. Powered by Grok.**
 
@@ -306,7 +320,7 @@ Independent AI researcher and builder working where **technology, psychology, an
 
 ---
 
-### 🎭 Archetype Academy Nexus *[In Development](https://github.com/jrq3rq/archetype-academy-nexus)*
+### Archetype Academy Nexus *[In Development](https://github.com/jrq3rq/archetype-academy-nexus)*
 
 **AI-driven platform for personalized learning and archetypal storytelling.**
 
@@ -330,7 +344,7 @@ Independent AI researcher and builder working where **technology, psychology, an
 
 --- -->
 
-### 🧩 MindPulse-150 *[Live](https://mindpulse-150.web.app/)*
+### MindPulse-150 *[Live](https://mindpulse-150.web.app/)*
 
 **Personality assessment revealing your archetypal blueprint.**
 
@@ -342,7 +356,7 @@ Independent AI researcher and builder working where **technology, psychology, an
 
 ---
 
-### 🤖 ArcheOS *[Alpha](https://github.com/jrq3rq/archeos)*
+### ArcheOS *[Alpha](https://github.com/jrq3rq/archeos)*
 
 **AI-powered exhibition management system for The Archetype Academy.**
 
@@ -354,7 +368,7 @@ Independent AI researcher and builder working where **technology, psychology, an
 
 ---
 
-## 🛠️ What I Create
+## What I Create
 
 At ***[StudioVoice2FLY.com](https://studiovoice2fly.com/)***, I craft **AI-powered creativity tools**:
 
@@ -364,28 +378,28 @@ At ***[StudioVoice2FLY.com](https://studiovoice2fly.com/)***, I craft **AI-power
 - **Archetype Chatbots**: AI companions with authentic personality.
 - **Adaptive Learning Platforms**: Real-time personalization for dynamic learning.
 
----
+<!-- --- -->
 
-## 🌐 Connect & Collaborate
+<!-- ## 🌐 Connect & Collaborate -->
 
-**Ready to build something epic?**
+<!-- **Ready to build something epic?** -->
 
-- **Portfolio**: [jamesrrs.me](https://jamesrrs.me)
+<!-- - **Portfolio**: [jamesrrs.me](https://jamesrrs.me)
 - **LinkedIn**: [James RRSantos](https://www.linkedin.com/in/james-rrsantos)
 - **Email**: [Contact Me](mailto:jamesrrs.me@gmail.com)
-- **GitHub**: [Explore my repos](https://github.com/jrq3rq)
+- **GitHub**: [Explore my repos](https://github.com/jrq3rq) -->
 
-*Let’s ignite creativity. DM me or join my newsletter for project updates.*
+<!-- *Let’s ignite creativity. DM me or join my newsletter for project updates.* -->
 
----
+<!-- --- -->
 
-## 💭 The Philosophy
+## The Philosophy
 
 > *I build tools that celebrate human complexity, embrace creative chaos, and empower authentic expression.*
 
 ---
 
-*Last Updated: October 13, 2025*
+<!-- *Last Updated: October 13, 2025* -->
 
 ---
 
@@ -393,6 +407,6 @@ At ***[StudioVoice2FLY.com](https://studiovoice2fly.com/)***, I craft **AI-power
 
 ### License
 
-All projects © 2025 James R. See individual repositories for licensing details.
+All projects © 2026 James R. See individual repositories for licensing details.
 
 ---
