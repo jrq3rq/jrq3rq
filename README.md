@@ -281,7 +281,7 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 <!-- *Let’s ignite creativity. DM me or join my newsletter for project updates.* -->
 
 
-# Digital Sandbox
+# R&D Sandbox
 <!-- # Principal Architect of Persona Systems | Bridging Psychology & Cognitive AI -->
 <!-- **I’m James — The Idea Alchemist.** -->
 
