@@ -285,7 +285,8 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 <!-- # Principal Architect of Persona Systems | Bridging Psychology & Cognitive AI -->
 <!-- **I’m James — The Idea Alchemist.** -->
 
-**Principal Architect of Persona Systems | Bridging Psychology & Cognitive AI**, working at the intersection of **cognitive architecture, psychology, and applied intelligence** to design structured, persona-driven systems that think, adapt, and scale.
+**Principal Architect of Persona Systems | Bridging Psychology & Cognitive AI**
+Designing structured, persona-driven cognitive systems at the intersection of psychology and applied intelligence. Independent builder of reusable AI infrastructure focused on speed, autonomy, and scalable intelligence.
 
 <!-- Independent AI systems architect working at the intersection of **cognitive architecture, psychology, and applied intelligence** to design structured, persona-driven systems that think, adapt, and scale. -->
 
