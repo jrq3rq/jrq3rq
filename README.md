@@ -275,7 +275,7 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
   <a href="https://x.com/intent/follow?screen_name=jrq3rq&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/james-rrsantos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jamesrrs.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/jrq3rq" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- <a href="https://github.com/jrq3rq" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> -->
 </p>
 
 <!-- *Let’s ignite creativity. DM me or join my newsletter for project updates.* -->
