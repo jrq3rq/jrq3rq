@@ -281,12 +281,15 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 <!-- *Let’s ignite creativity. DM me or join my newsletter for project updates.* -->
 
 
-# Welcome to My Digital Sandbox
+# Digital Sandbox
+<!-- # Principal Architect of Persona Systems | Bridging Psychology & Cognitive AI -->
+<!-- **I’m James — The Idea Alchemist.** -->
 
-**I’m James — The Idea Alchemist.**
-Independent AI researcher and builder working where **technology, psychology, and creativity** intersect to create practical, human-centered tools.
+**Principal Architect of Persona Systems | Bridging Psychology & Cognitive AI**, working at the intersection of **cognitive architecture, psychology, and applied intelligence** to design structured, persona-driven systems that think, adapt, and scale.
 
-*Where innovation meets meaning, and ideas learn to think for themselves.*
+<!-- Independent AI systems architect working at the intersection of **cognitive architecture, psychology, and applied intelligence** to design structured, persona-driven systems that think, adapt, and scale. -->
+
+*Where cognitive design meets human depth, and intelligence is shaped with intention.*
 
 ---
 
