@@ -289,7 +289,7 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 <!-- Independent AI systems architect working at the intersection of **cognitive architecture, psychology, and applied intelligence** to design structured, persona-driven systems that think, adapt, and scale. -->
 
-*Where cognitive design meets human depth, and intelligence is shaped with intention.*
+<!-- *Where cognitive design meets human depth, and intelligence is shaped with intention.* -->
 
 ---
 
