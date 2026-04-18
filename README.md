@@ -1,7 +1,5 @@
 <!-- ## Carl-XII
 
-
-
 [![Archetype Academy Nexus](https://img.shields.io/badge/-Archetype%20Academy%20Nexus-green?style=for-the-badge)](https://github.com/jrq3rq/archetype-academy-nexus)
 
 ```css
@@ -233,11 +231,9 @@ As we continue to refine and expand our platform, we remain committed to pushing
     - **Operational NFT Wallet:** Safe storage and management of digital assets, including educational content and character customizations.
     - **Blockchain Implementation:** Ensuring asset security and ownership with blockchain technology for transparent and tamper-proof transactions.
 
-
   - **Continuous Improvement:**
     - **Feedback-Driven Development:** Mechanisms to continuously collect and analyze user feedback for refining and expanding features.
     - **Feature Expansion:**  Regular updates to enhance educational value and user engagement, with a scalable architecture to support a growing user base.
-
 
 ## Personality Test
 
@@ -267,9 +263,6 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 
 <!-- # **StudioVoice2fly.com** -->
 
-
-
-
 <p align="center">
   <a href="https://studiovoice2fly.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="https://x.com/intent/follow?screen_name=jrq3rq&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
@@ -279,7 +272,6 @@ Feel free to explore these projects and reach out with any questions, ideas, or 
 </p>
 
 <!-- *Let’s ignite creativity. DM me or join my newsletter for project updates.* -->
-
 
 # R&D Sandbox
 <!-- # Principal Architect of Persona Systems | Bridging Psychology & Cognitive AI -->
@@ -302,8 +294,6 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
   </a>
 </p>
 
-
-
 **Decision-support infrastructure built for homeschooling families, not institutions.**
 
 * **Structured Weekly Planning**: AI-assisted plans that reduce overwhelm and adapt to real-life constraints.
@@ -313,32 +303,32 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 
 *Why It Matters*: Inspired by my sister’s journey supporting a neurodivergent learner at home, HomeschoolGuide exists to reduce cognitive load and help parents make calm, confident decisions over time.*
 
-
----
+<!-- ---
 
 ### form-rag-js · [Live on npm](https://www.npmjs.com/package/form-rag-js)
 
 **One AI form. Any small business. Powered by Grok.**
 
-- **Seamless Setup**: `npm install form-rag-js` — import, plug, and play.
-- **Instant Context Retrieval**: Structured Form-RAG templates replace manual prompt writing.
-- **Full AI Chat**: Continue the conversation after form submission.
-- **Message Export**: Download single messages or entire chats as `.txt`.
-- **7 Pre-Built SMB Templates**: Landscaper, Cleaning, Handyman, Automotive, Author, Artist, Real Estate — all ready to deploy.
-- **Responsive UI**: Full-width input, side-by-side controls, mobile optimized.
-- **Minimal Input, Maximum Output**: 2–4 fields; Grok generates quotes, schedules, and upsells automatically.
+* **Seamless Setup**: `npm install form-rag-js` — import, plug, and play.
+* **Instant Context Retrieval**: Structured Form-RAG templates replace manual prompt writing.
+* **Full AI Chat**: Continue the conversation after form submission.
+* **Message Export**: Download single messages or entire chats as `.txt`.
+* **7 Pre-Built SMB Templates**: Landscaper, Cleaning, Handyman, Automotive, Author, Artist, Real Estate — all ready to deploy.
+* **Responsive UI**: Full-width input, side-by-side controls, mobile optimized.
+* **Minimal Input, Maximum Output**: 2–4 fields; Grok generates quotes, schedules, and upsells automatically.
 
-*Why It Matters*: It eliminates prompt engineering entirely—one reusable AI form handles client quotes, bookings, and follow-ups for any small business.
+*Why It Matters*: It eliminates prompt engineering entirely—one reusable AI form handles client quotes, bookings, and follow-ups for any small business. -->
 
 ---
 
-### Archetype Academy Nexus *[In Development](https://github.com/jrq3rq/archetype-academy-nexus)*
+### Archetype Academy Nexus *[In Development](https://archetype-academy-nexus.web.app/library)*
+<!-- ### Archetype Academy Nexus *[In Development](https://github.com/jrq3rq/archetype-academy-nexus)* -->
 
 **AI-driven platform for personalized learning and archetypal storytelling.**
 
-- **MindPulse-150 Assessment**: Blends Big Five traits with Jungian archetypes.
-- **Character Creation Tools**: Frameworks for authentic AI companions.
-- **Adaptive Learning Engine**: Evolves with your unique learning journey.
+* **MindPulse-150 Assessment**: Blends Big Five traits with Jungian archetypes.
+* **Character Creation Tools**: Frameworks for authentic AI companions.
+* **Adaptive Learning Engine**: Evolves with your unique learning journey.
 
 *Why It Matters*: I build tools that embrace human complexity, not simplify it.
 
@@ -356,39 +346,37 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 
 --- -->
 
-### MindPulse-150 *[Live](https://mindpulse-150.web.app/)*
+<!-- ### MindPulse-150 *[Live](https://mindpulse-150.web.app/)*
 
 **Personality assessment revealing your archetypal blueprint.**
 
-- **Holistic Integration**: Combines Big Five traits with Jungian archetypes.
-- **Visual Archetype Map**: Interactive dashboard for personality insights.
-- **API Integration**: Powers personalized experiences across platforms.
+* **Holistic Integration**: Combines Big Five traits with Jungian archetypes.
+* **Visual Archetype Map**: Interactive dashboard for personality insights.
+* **API Integration**: Powers personalized experiences across platforms.
 
 *Why It Matters*: You’re a dynamic constellation of archetypes, not a static type.
 
----
+--- -->
 
-### ArcheOS *[Alpha](https://github.com/jrq3rq/archeos)*
+<!-- ### ArcheOS *[Alpha](https://github.com/jrq3rq/archeos)*
 
 **AI-powered exhibition management system for The Archetype Academy.**
 
-- **Exhibit Planner**: Optimizes layout and visitor flow.
-- **Marketing Automator**: Streamlines multi-channel campaigns.
-- **Visitor Experience Engine**: Personalizes exhibit recommendations.
+* **Exhibit Planner**: Optimizes layout and visitor flow.
+* **Marketing Automator**: Streamlines multi-channel campaigns.
+* **Visitor Experience Engine**: Personalizes exhibit recommendations.
 
 *Why It Matters*: Transforming exhibit management with AI-driven precision.
 
----
+--- -->
 
 ## What I Create
 
-At ***[StudioVoice2FLY.com](https://studiovoice2fly.com/)***, I craft **AI-powered creativity tools**:
+At [StudioVoice2FLY.com](https://studiovoice2fly.com/), I build **AI systems that translate human psychology into usable products**:
 
-
-
-- **Creative AI Solutions**: Branding and storytelling with a rebellious edge.
-- **Archetype Chatbots**: AI companions with authentic personality.
-- **Adaptive Learning Platforms**: Real-time personalization for dynamic learning.
+* **Archetype Infrastructure**: Turning identity models into structured frameworks for branding, storytelling, and AI.
+* **Persona Systems**: AI copilots with real behavioral logic, not generic responses.
+* **Adaptive Decision & Learning Tools**: Systems that reduce overwhelm and guide users toward clear next actions.
 
 <!-- --- -->
 
