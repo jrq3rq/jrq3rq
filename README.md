@@ -286,7 +286,7 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 
 ---
 
-## Featured Projects
+## Featured Project
 
 <p align="start">
   <a href="https://homeschoolguide.ai/signin">
