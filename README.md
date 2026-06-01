@@ -319,20 +319,20 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 
 *Why It Matters*: It eliminates prompt engineering entirely—one reusable AI form handles client quotes, bookings, and follow-ups for any small business. -->
 
----
+<!-- --- -->
 
-### Archetype Academy Nexus *[In Development](https://archetype-academy-nexus.web.app/library)*
+<!-- ### Archetype Academy Nexus *[In Development](https://archetype-academy-nexus.web.app/library)* -->
 <!-- ### Archetype Academy Nexus *[In Development](https://github.com/jrq3rq/archetype-academy-nexus)* -->
 
-**AI-driven platform for personalized learning and archetypal storytelling.**
+<!-- **AI-driven platform for personalized learning and archetypal storytelling.** -->
 
-* **MindPulse-150 Assessment**: Blends Big Five traits with Jungian archetypes.
-* **Character Creation Tools**: Frameworks for authentic AI companions.
-* **Adaptive Learning Engine**: Evolves with your unique learning journey.
+<!-- * **MindPulse-150 Assessment**: Blends Big Five traits with Jungian archetypes. -->
+<!-- * **Character Creation Tools**: Frameworks for authentic AI companions. -->
+<!-- * **Adaptive Learning Engine**: Evolves with your unique learning journey. -->
 
-*Why It Matters*: I build tools that embrace human complexity, not simplify it.
+<!-- *Why It Matters*: I build tools that embrace human complexity, not simplify it. -->
 
----
+<!-- --- -->
 <!--
 ### 🔧 ArchetypeAPI *[Production Ready](https://us-central1-archetype-builder-api.cloudfunctions.net/api/archetypes/creator)*
 
@@ -369,14 +369,13 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 *Why It Matters*: Transforming exhibit management with AI-driven precision.
 
 --- -->
-
 ## What I Create
 
-At [StudioVoice2FLY.com](https://studiovoice2fly.com/), I build **AI systems that translate human psychology into usable products**:
+At [StudioVoice2FLY.com](https://studiovoice2fly.com/), I build **psychology-driven AI products for founders, businesses, and learning systems**:
 
-* **Archetype Infrastructure**: Turning identity models into structured frameworks for branding, storytelling, and AI.
-* **Persona Systems**: AI copilots with real behavioral logic, not generic responses.
-* **Adaptive Decision & Learning Tools**: Systems that reduce overwhelm and guide users toward clear next actions.
+* **AI Product Systems**: From raw idea to usable tool, workflow, or platform.
+* **Persona & Archetype Engines**: AI experiences with identity, tone, logic, and behavioral depth.
+* **Adaptive Decision Tools**: Systems that reduce overwhelm and guide people toward clear next actions.
 
 <!-- --- -->
 
