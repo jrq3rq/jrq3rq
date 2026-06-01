@@ -369,13 +369,15 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 *Why It Matters*: Transforming exhibit management with AI-driven precision.
 
 --- -->
+
 ## What I Create
 
-At [StudioVoice2FLY.com](https://studiovoice2fly.com/), I build **psychology-driven AI products for founders, businesses, and learning systems**:
+At [StudioVoice2FLY.com](https://studiovoice2fly.com/), I help founders, businesses, and learning teams turn **complex human problems into practical AI-powered systems**:
 
-* **AI Product Systems**: From raw idea to usable tool, workflow, or platform.
-* **Persona & Archetype Engines**: AI experiences with identity, tone, logic, and behavioral depth.
-* **Adaptive Decision Tools**: Systems that reduce overwhelm and guide people toward clear next actions.
+* **AI Product Strategy**: Turning raw ideas into clear product direction, MVP scope, and buildable roadmaps.
+* **Persona & Archetype Systems**: AI experiences with identity, tone, behavioral logic, and decision patterns.
+* **Adaptive Decision Tools**: Workflows and products that reduce overwhelm, personalize support, and guide users toward clear next actions.
+
 
 <!-- --- -->
 
