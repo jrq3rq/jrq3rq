@@ -296,12 +296,13 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 
 **Decision-support infrastructure built for homeschooling families, not institutions.**
 
-* **Structured Weekly Planning**: AI-assisted plans that reduce overwhelm and adapt to real-life constraints.
-* **Neurodivergent-Aware Design**: Flexible pacing, visual supports, and tools built with ADHD and autism-informed needs in mind.
-* **Longitudinal Clarity**: Decision history and pattern tracking to help families learn what works and avoid repeated stress.
-* **Privacy-First Architecture**: Designed to protect sensitive family data.
+- **Adaptive Weekly Planning**: AI-assisted plans that reduce overwhelm and adapt to real-life family constraints.
+- **Neurodivergent-Aware Design**: Flexible pacing, visual supports (PECS), personalized social stories, and tools built with autism and ADHD needs in mind.
+- **Spectrum AI Co-Pilot**: Real-time guidance powered by xAI’s Grok — the foundational intelligence layer for daily decisions and lesson adaptations.
+- **Longitudinal Insights**: Decision history and pattern tracking to help families learn what works and reduce repeated stress.
+- **Privacy-First Architecture**: Parent-controlled data with strong security and respect for family sovereignty.
 
-*Why It Matters*: Inspired by my sister’s journey supporting a neurodivergent learner at home, HomeschoolGuide exists to reduce cognitive load and help parents make calm, confident decisions over time.*
+**Why It Matters**: Inspired by my sister Tatiana’s journey supporting a neurodivergent learner at home, HomeschoolGuide.ai exists to reduce cognitive load and help caregivers make calm, confident decisions over time.
 
 <!-- ---
 
