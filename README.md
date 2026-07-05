@@ -296,6 +296,7 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 
 **A Second Brain for Homeschooling Families.**
 
+<<<<<<< HEAD
 Decision-support infrastructure built for parents — especially those raising neurodivergent learners — not institutions.
 
 * **Structured Weekly Planning** — AI-assisted plans that reduce overwhelm and adapt to real-life constraints.
@@ -307,6 +308,15 @@ Decision-support infrastructure built for parents — especially those raising n
 Inspired by my sister’s journey in the autism community, HomeschoolGuide.ai gives parents a true **Second Brain** — turning daily overwhelm into calm, confident decisions while always respecting your judgment as the expert on your child.
 
 **Current Status (July 2026)**: Live product with core features (Learner Profiles, Social Stories, PECS, Spectrum Chat). Actively testing with families and refining based on real feedback.
+=======
+- **Adaptive Weekly Planning**: AI-assisted plans that reduce overwhelm and adapt to real-life family constraints.
+- **Neurodivergent-Aware Design**: Flexible pacing, visual supports (PECS), personalized social stories, and tools built with autism and ADHD needs in mind.
+- **Spectrum AI Co-Pilot**: Real-time guidance powered by xAI’s Grok — the foundational intelligence layer for daily decisions and lesson adaptations.
+- **Longitudinal Insights**: Decision history and pattern tracking to help families learn what works and reduce repeated stress.
+- **Privacy-First Architecture**: Parent-controlled data with strong security and respect for family sovereignty.
+
+**Why It Matters**: Inspired by my sister Tatiana’s journey supporting a neurodivergent learner at home, HomeschoolGuide.ai exists to reduce cognitive load and help caregivers make calm, confident decisions over time.
+>>>>>>> be2ea9422507beba0cb7846c03342595c505c0e1
 
 <!-- ---
 
