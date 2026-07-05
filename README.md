@@ -289,19 +289,24 @@ Designing structured, persona-driven cognitive systems at the intersection of ps
 ## Featured Project
 
 <p align="start">
-  <a href="https://homeschoolguide.ai/signin">
-    <img src="https://img.shields.io/badge/HomeschoolGuide.ai%20–%20Startup-02c7eb?style=for-the-badge&logoColor=white" alt="HomeschoolGuide.ai Startup">
+  <a href="https://homeschoolguide.ai">
+    <img src="https://img.shields.io/badge/HomeschoolGuide.ai-00c7eb?style=for-the-badge&logoColor=white" alt="HomeschoolGuide.ai">
   </a>
 </p>
 
-**Decision-support infrastructure built for homeschooling families, not institutions.**
+**A Second Brain for Homeschooling Families.**
 
-* **Structured Weekly Planning**: AI-assisted plans that reduce overwhelm and adapt to real-life constraints.
-* **Neurodivergent-Aware Design**: Flexible pacing, visual supports, and tools built with ADHD and autism-informed needs in mind.
-* **Longitudinal Clarity**: Decision history and pattern tracking to help families learn what works and avoid repeated stress.
-* **Privacy-First Architecture**: Designed to protect sensitive family data.
+Decision-support infrastructure built for parents — especially those raising neurodivergent learners — not institutions.
 
-*Why It Matters*: Inspired by my sister’s journey supporting a neurodivergent learner at home, HomeschoolGuide exists to reduce cognitive load and help parents make calm, confident decisions over time.*
+* **Structured Weekly Planning** — AI-assisted plans that reduce overwhelm and adapt to real-life constraints.
+* **Neurodivergent-Aware Design** — Flexible pacing, visual supports (PECS), and tools built with ADHD and autism-informed needs in mind.
+* **Longitudinal Clarity** — Decision history and pattern tracking so families learn what actually works.
+* **Privacy-First Architecture** — Your family’s data belongs to you. No selling, no training, no third-party sharing.
+
+**Why It Matters**
+Inspired by my sister’s journey in the autism community, HomeschoolGuide.ai gives parents a true **Second Brain** — turning daily overwhelm into calm, confident decisions while always respecting your judgment as the expert on your child.
+
+**Current Status (July 2026)**: Live product with core features (Learner Profiles, Social Stories, PECS, Spectrum Chat). Actively testing with families and refining based on real feedback.
 
 <!-- ---
 
